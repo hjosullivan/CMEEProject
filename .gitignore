@@ -1,0 +1,6 @@
+*~
+*.tmp
+*.pyc
+.DS_Store
+.Rhistory
+_pycache_
