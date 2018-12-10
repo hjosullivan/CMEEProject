@@ -26,6 +26,7 @@ headsepline, % Get a line under the header
 \usepackage{float} % to position figures
 \usepackage{natbib} % flexible citations
 \bibliographystyle{plainnat} % plain bibliography
+\usepackage{lineno} % add line numbers
 
 %% Add geometry
 \geometry{
@@ -68,13 +69,13 @@ headsepline, % Get a line under the header
 
 \vfill
 
-
 {\large \today}\\[4cm] % Date
 
 \vfill
 \end{center}
 \end{titlepage}
 
+\begin{linenumbers}
 \maketitle
 \section*{Keywords}
 \emph{Ecoinformatics; Metabolic theory; Climate change; Mathematical modelling; Temperature; Ecology.}
@@ -118,10 +119,26 @@ This project aims to provide a candid account of the flaws and shortcomings in t
   \hline
   \end{tabular}
 \end{center
+\end{linenumbers}
 
 \pagebreak % new page for bibliography
 
 \bibliography{../Data/Proposal.bib}
+
+\pagebreak % New page for supervisor signature
+
+%\begin{minipage}[t]{0.4\textwidth}
+\begin{flushright} \large
+\mbox{} % something above vfill to make it work
+\vfill
+\emph{I have seen and approved the proposal and budget:} \\
+\vspace{10mm} % spacing for signature and date 
+\noindent\begin{tabular}{ll}
+\makebox[2.5in]{\hrulefill} & \makebox[2.5in]{\hrulefill}\\
+Supervisor & Date\\
+\end{tabular}
+\end{flushright}
+%\end{minipage}\\[3cm]
 
 
 
