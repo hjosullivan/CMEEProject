@@ -7,7 +7,7 @@
 \documentclass[
 11pt, % Define font
 onehalfspacing, % Use onehalfspacing
-parskip, % Uncomment to add space between paragraphs
+parskip, % to add space between paragraphs
 headsepline, % Get a line under the header
 ]{article} % The class file specifying the document structure
 %\usepackage[backend=bibtex,style=authoryear,natbib=true]{biblatex} % Use the bibtex backend with the authoryear citation style (which resembles APA)
@@ -27,6 +27,7 @@ headsepline, % Get a line under the header
 \usepackage{natbib} % flexible citations
 \bibliographystyle{plainnat} % plain bibliography
 \usepackage{lineno} % add line numbers
+\usepackage{enumerate}
 
 %% Add geometry
 \geometry{
@@ -83,42 +84,38 @@ headsepline, % Get a line under the header
 
 \maketitle
 \section*{Introduction}
-Temperature is fundamental to the rate at which energy and materials are reorganised in individuals, communities and ecosystems \citep{Brown2004}. The intrinsic function of temperature in biological systems allows for insights to be made about how life might respond in the face of an ever changing thermal environment. In recent years, a wealth of research has been produced with the specific purpose of understanding biological responses to temperature \citep{Dell2011} \citep{Thomas2012}. However, far less research has been devoted to assessing the quantitative tools available to researchers striving to answer this complex question. Given the importance of this topic in the context of global climate change, it is imperative to approach data analysis with precision and care. For example, biogeographical estimates derived from the same data, with even the best-fitting models, have differed by the equivalent of a decade of predicted warming \citep{Low-Decarie2017}. Significant fluctuation in results can also arise due to the quality of data used in fitting models. One key example of this, is the difference found in activation energy estimates due to variation in the range of temperatures measured \citep{Pawar2016}.
-Thus, this project aims to unravel the mathematical architecture of the models available to metabolic theorists and reevaluate them given the data accessible today. In addition to this, I aim to construct an innovative tool to aid in the model fitting process and encourage overlap of practice between researchers in this field.
+Temperature is fundamental to the rate at which energy and materials are reorganised in individuals, communities and ecosystems \citep{Brown2004}. The intrinsic function of temperature in ecology allows for insights into how biological systems might respond in the face of an ever changing thermal environment. In recent years, a wealth of research has been produced using intraspecific and interspecific thermal responce curves to understand biological responses to temperature \citep{Dell2011} \citep{Thomas2012}. However, far less research has been devoted to assessing the quantitative tools available to researchers striving to answer this complex question. Given the importance of thermal response curves in the context of global climate change, it is imperative to approach data analysis with precision and care. For example, biogeographical estimates derived from the same data, with even the best-fitting models, have differed by the equivalent of a decade of predicted warming \citep{Low-Decarie2017}. Significant fluctuation in results can also arise due to the quality of data used in fitting models. One key example of this, is the difference found in activation energy estimates due to variation in the range or frequency of temperatures measured \citep{Pawar2016}.
+Thus, this project aims to reevaluate the models available to metabolic theorists and assess them given the data accessible today. In addition to this, I aim to construct an innovative tool to aid in the model fitting of thermal performance curves and encourage overlap of practice between researchers in this field.
 
 \maketitle
 \section*{Methods}
-The data used in this project will be taken from the published BioTraits database \citep{Dell2013}. Firstly, the scope of data quality will be investigated with two parameters; the range of temperature values taken and the frequency with which these values are recorded. Following this, the current mathematical models pertaining to metabolic theory will be implemented into Python modules. At this stage, it will be possible to compare the performance and precision of each model to various different levels of data quality using maximum likelihood and bayesian methods. In understanding the shortcomings of both data and models at this basal level, it will then be possible to make assessments of model robustness at higher level of realism. The python modules will undergo rigorous testing to ensure transparency and cross-platform compatibility. Eventually, these will be synthesised into a concise package as away of distributing a relevant collection of mathematical models for general use.
+The data used in this project will be taken from the published BioTraits database \citep{Dell2013}. Firstly, the scope of data quality will be investigated with two parameters; the range of temperature values taken and the frequency with which these values are recorded. Following this, the current mathematical models pertaining to metabolic theory will be implemented into Python modules. At this stage, it will be possible to compare the performance and precision of each model to various levels of data quality using maximum likelihood and bayesian methods. In understanding the shortcomings of both data and models at this basal level, it will then be possible to make assessments of model robustness at higher level of realism. Rigorous testing of the Python modules will ensure transparency and cross-platform compatibility. Eventually, these will be synthesised into a concise package as away of distributing a relevant collection of mathematical models for general use.
 
 \maketitle
 \section*{Anticipated outcomes and results}
-This project aims to provide a candid account of the flaws and shortcomings in the current quantitative tools used for analysing thermal responses. It will investigate the importance of precision, over generality and reality in the model fitting process. In the creation of a python package, I hope that this will inform decision making and efficiently contribute a robust set of computational methods to peers. In addition to this, the project will lay a statistical groundwork for elucidating higher level ecological questions such as population and coevolutionary dynamics.
+This project aims to assess the flaws and shortcomings in the current quantitative tools used for analysing thermal responses. It will investigate the importance of precision, over generality and reality in the model fitting process. In the creation of a python package, I aim to inform decision making and efficiently contribute a robust set of computational methods to peers. In addition to this, the software tool will allow for elucidating higher level ecological questions such as population and coevolutionary dynamics.
 
 \maketitle
 \section*{Project feasibility}
 \begin{figure}[H]
-      \includegraphics[width = 1\textwidth]{../Data/Project_timeline.PDF}
+      \includegraphics[width = 1\textwidth]{../Data/gantt_new.PDF}
       \caption{A Gantt chart outlining the approximate amount of time given to each main task between Januray 2019 and September 2019.}
 \end{figure}
 
 
 \maketitle
 \section*{Budget}
-\begin{center}
-  \begin{tabular}{|c|c|c|}
-  \hline
-  \textbf{Activity} & \textbf{Justification} & \textbf{Cost}\\
-  \hline
-  High Performance Computing Time & Running computationally intensive analyses & \textsterling200\\
-  \hline
-  Train fare & Visits to collaborators & \textsterling100\\
-  \hline
-  Miscellaneous conferences & Networking & \textsterling200\\
-  \hline
-  {} & {} & \textbf{\textsterling500}\\
-  \hline
-  \end{tabular}
-\end{center
+\begin{enumerate}
+	\item Train fare(£150):
+	\begin{enumerate}
+		\item Covers approximately three trips to Falmouth, Cornwall.
+		\item Necessary for ongoing collaboration with researchers at the Penryn Campus, Universty of Exeter.
+	\end{enumerate}
+	\item External hard drive (£50):
+	\begin{enumerate}
+		\item To back up large volumes of data throughout the course of the project.
+\end{enumerate}
+
 \end{linenumbers}
 
 \pagebreak % new page for bibliography
@@ -132,7 +129,7 @@ This project aims to provide a candid account of the flaws and shortcomings in t
 \mbox{} % something above vfill to make it work
 \vfill
 \emph{I have seen and approved the proposal and budget:} \\
-\vspace{10mm} % spacing for signature and date 
+\vspace{10mm} % spacing for signature and date
 \noindent\begin{tabular}{ll}
 \makebox[2.5in]{\hrulefill} & \makebox[2.5in]{\hrulefill}\\
 Supervisor & Date\\
