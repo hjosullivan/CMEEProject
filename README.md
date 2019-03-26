@@ -4,8 +4,13 @@
 
 *Check out the jupyter notebook for tutorials and examples.*
 
+Usage: `$ python pipeline.py`
+
 ## Main Contents
 *Navigate to sub-directories for further information*
+
+#### Notebooks
+* Jupyter notebook detailing theory, methods and usage examples.
 
 #### Proposal
 * Initial project proposal in LaTeX
@@ -23,7 +28,9 @@
 * `pipeline.py`
     * Python script to run TPC_fitting.
 * `Data_clean.py`
-    * An optional workflow implementing a `pandas` :panda_face: friendly approach to data wrangling
+    * An optional workflow implementing a `pandas` friendly approach to data wrangling :panda_face:
+* `Data_exploration.py`
+    * A `seabourne` adventure through the biotraits database.
 
 
 
@@ -34,7 +41,7 @@
 4. Install requirements, e.g.: `pip install -r requirements.txt`
 
 ## Author
-* **Hannah O'Sullivan** (h.osullivan18@imperial.ac.uk)
+* **Hannah O'Sullivan** (h.osullivan18@imperial.ac.uk) :e-mail:
 
 ## License
 
