@@ -2,8 +2,6 @@
 
 **TPC_fitting**: A new tool for quantifying the response of metabolic traits to climate change! :earth_africa: This python package fits mechanistic mathematical models to thermal performance data using a non-linear least-squares method.
 
-*Check out the jupyter notebook for tutorials and examples.*
-
 Usage: `$ python pipeline.py`
 
 ## Main Contents
