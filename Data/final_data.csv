@@ -1,0 +1,586 @@
+"","originalid","interactor1kingdom","interactor1","standardisedtraitname","model_name","aic","estimate","climate","latitude","longitude"
+"1","MTD201","Metazoa","Kinixys spekii","Foraging Velocity","sharpeschoolhigh",-693.10393013079,-0.0882473884235138,"tropical",-17.193,29.553
+"2","MTD2036","Metazoa","Dorymyrmex goetschi","Foraging Velocity","sharpeschoolhigh",-129.765460627094,0.106843382259614,"sub-tropical",-33.825,-70.269
+"3","MTD2038","Metazoa","Formica rufa","Foraging Velocity","sharpeschoolhigh",-174.727613802005,-2.75835345315454,"temperate",56.435,-4.709
+"4","MTD2041","Metazoa","Pogonomyrmex rugosus","Foraging Velocity","sharpeschoolhigh",-382.374038801058,0.873972511277531,"temperate",40.249,-111.676
+"5","MTD2042","Metazoa","Tapinoma sessile","Foraging Velocity","sharpeschoolhigh",-305.062816038878,0.979389762943328,"sub-tropical",34.148,-118.145
+"6","MTD2043","Metazoa","Linepithema humile","Foraging Velocity","sharpeschoolhigh",-212.477120542004,0.475172528587725,"sub-tropical",34.148,-118.145
+"7","MTD2045","Metazoa","Messor pergandei","Foraging Velocity","sharpeschoolfull",-286.084661735877,0.30424668154792,NA,NA,NA
+"8","MTD2049","Metazoa","Pogonomyrmex desertorum","Foraging Velocity","sharpeschoolhigh",-364.935252659221,0.419772587596901,"sub-tropical",31.835,-109.031
+"9","MTD2050","Metazoa","Pogonomyrmex occidentalis","Foraging Velocity","sharpeschoolhigh",-83.1669414435109,0.244827766003402,"temperate",40.765,-111.827
+"10","MTD2051","Metazoa","Ocymyrmex barbiger","Foraging Velocity","sharpeschoolhigh",-420.752320008393,0.963865662344202,"sub-tropical",-23.561,15.042
+"11","MTD2052","Metazoa","Messor pergandei","Foraging Velocity","sharpeschoolhigh",-519.99069432753,0.0580236866276619,NA,NA,NA
+"12","MTD2053","Metazoa","Acromyrmex versicolor","Foraging Velocity","sharpeschoolhigh",-362.527764447181,0.53590515204986,"sub-tropical",28.828,-111.936
+"13","MTD2054","Metazoa","Atta colombica","Foraging Velocity","sharpeschoolhigh",-439.272928457762,0.767757978738851,"tropical",9.152,-79.846
+"14","MTD2055","Metazoa","Messor pergandei","Foraging Velocity","sharpeschoolhigh",-189.930600353877,0.535199444384383,"sub-tropical",28.828,-111.936
+"15","MTD2061","Metazoa","Linepithema humile","Foraging Velocity","sharpeschoolhigh",-1390.3409283133,-0.917774426513899,"sub-tropical",37.892,-121.201
+"16","MTD2079","Metazoa","Acarus siro","Growth","sharpeschoolhigh",-288.712942503284,1.93871881588042,"temperate",50.087,14.421
+"17","MTD2081","Metazoa","Aleuroglyphus ovatus","Growth","sharpeschoolhigh",-285.217144548862,1.74784028402028,"temperate",50.087,14.421
+"18","MTD2083","Metazoa","Tyrophagus putrescentiae","Growth","sharpeschoolhigh",-266.847196718183,3.07231017869508,"temperate",50.087,14.421
+"19","MTD2168","Plantae","Lemna minor","Growth","sharpeschoolfull",-333.890782042323,1.58393458273808,"temperate",52.94,-73.549
+"20","MTD2169","Bacteria","Salmonella enterica","Growth","sharpeschoolhigh",-190.848143555359,-2.7470816307829,"temperate",40.376,-88.981
+"21","MTD2170","Bacteria","Escherichia coli","Growth","sharpeschoolfull",-259.694719742066,0.52069053489414,"temperate",40.376,-88.981
+"22","MTD2200","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-253.2075480163,-1.46832699480899,"temperate",47.121,-1.351
+"23","MTD2201","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-287.780317391835,0.812877025589138,"temperate",46.52,1.377
+"24","MTD2203","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-242.148737186658,0.909416016324358,"tropical",16.996,-62.068
+"25","MTD2204","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-246.425560819119,0.831022186563137,"tropical",-14.264,-51.943
+"26","MTD2205","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-294.709224538369,0.996370185908093,"temperate",40.714,-74.006
+"27","MTD2207","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-292.728055823215,1.6931998426375,"temperate",48.553,1.199
+"28","MTD2208","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-246.26012395041,-2.53533428931887,"tropical",3.557,-52.449
+"29","MTD2209","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-249.344045317275,1.39067424620501,"tropical",3.557,-52.449
+"30","MTD2210","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-248.219596896945,0.948886449642544,"tropical",3.557,-52.449
+"31","MTD2212","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-242.60755137,0.805077004109884,"sub-tropical",30.065,31.25
+"32","MTD2213","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-292.660494359867,0.893213879838883,"tropical",-18.767,46.869
+"33","MTD2214","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-293.438620442865,0.756745798110571,"tropical",12.233,-1.56
+"34","MTD2215","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-245.941714444233,0.800179410025061,"tropical",21.522,-77.781
+"35","MTD2216","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-243.829225154246,0.784447632751781,"tropical",21.522,-77.781
+"36","MTD2217","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-244.046305052091,1.85566012496219,"sub-tropical",26.821,30.802
+"37","MTD2218","Fungi","Metarhizium anisopliae","Growth","sharpeschoolhigh",-247.205656076651,1.07197484049636,"tropical",-21.125,55.547
+"38","MTD2221","Fungi","Metarhizium flavoviride","Growth","sharpeschoolhigh",-284.949423618803,1.07226001811167,"temperate",48.252,-3.93
+"39","MTD2223","Fungi","Metarhizium flavoviride","Growth","sharpeschoolhigh",-241.559028492253,0.855530843175233,"sub-tropical",-25.274,133.775
+"40","MTD2225","Fungi","Metarhizium flavoviride","Growth","sharpeschoolhigh",-296.558399004359,0.514262301168175,"tropical",8.559,0.835
+"41","MTD2226","Fungi","Metarhizium flavoviride","Growth","sharpeschoolhigh",-246.79249863886,0.819269068399323,"tropical",17.608,8.082
+"42","MTD2228","Fungi","Metarhizium flavoviride","Growth","sharpeschoolhigh",-245.230715379282,0.695465219203006,"tropical",-6.369,34.889
+"43","MTD2229","Fungi","Metarhizium flavoviride","Growth","sharpeschoollow",-307.1227270767,-6.27487597879034,"tropical",15.454,18.732
+"44","MTD2233","Fungi","Metarhizium flavoviride","Growth","sharpeschoolhigh",-248.90643162297,0.929227123933704,"tropical",-0.228,15.828
+"45","MTD2234","Fungi","Metarhizium flavoviride","Growth","sharpeschoolhigh",-301.10550734819,0.968463979592657,"tropical",-18.767,46.869
+"46","MTD2236","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-254.09771500037,0.759971534161233,"sub-tropical",31.971,-99.91
+"47","MTD2237","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-246.37464214477,1.02056222071532,"sub-tropical",31.971,-99.91
+"48","MTD2238","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-245.300491965078,0.859170183486502,"sub-tropical",36.778,-119.418
+"49","MTD2239","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-249.322127875034,0.688250053359271,"sub-tropical",36.778,-119.418
+"50","MTD224","Metazoa","Stethorus punctum","Consumption","sharpeschoolhigh",-162.262946814217,0.727737952210887,"sub-tropical",39.93,-77.248
+"51","MTD2241","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-248.291674738051,0.761293618308874,"tropical",21.522,-77.781
+"52","MTD2243","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-266.712048945268,0.766312401857622,"temperate",43.493,-1.276
+"53","MTD225","Metazoa","Stethorus punctum","Consumption","sharpeschoolhigh",-156.141373585322,0.668208613701043,"sub-tropical",39.93,-77.248
+"54","MTD2252","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-249.553292363677,0.506694804912308,"tropical",13.06,80.25
+"55","MTD2253","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-249.208188960511,-3.75368512949009,"tropical",13.06,80.25
+"56","MTD2254","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-248.246473902377,0.803647625144636,"tropical",13.06,80.25
+"57","MTD2255","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-249.419050710048,0.925699432494339,"tropical",13.06,80.25
+"58","MTD2256","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-252.347020104211,-2.0265226105419,"tropical",13.06,80.25
+"59","MTD2257","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-248.062531892402,-1.66843024881135,"tropical",13.06,80.25
+"60","MTD2258","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-257.731446237407,1.20249187097366,"tropical",13.06,80.25
+"61","MTD2259","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-246.4918922178,0.568268170160759,"tropical",13.06,80.25
+"62","MTD226","Metazoa","Stethorus punctum","Consumption","sharpeschoolhigh",-153.941608088206,-1.3682089856944,"sub-tropical",39.93,-77.248
+"63","MTD2260","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-255.063437910599,0.618080775757453,"sub-tropical",27.703,85.318
+"64","MTD2262","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-289.684364777482,0.755370647574387,"sub-tropical",27.703,85.318
+"65","MTD2263","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-302.737365602442,0.757128936497374,"sub-tropical",27.703,85.318
+"66","MTD2264","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-243.711670446332,0.747713372774437,"sub-tropical",27.703,85.318
+"67","MTD2265","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-251.243190586611,0.730216577490279,"sub-tropical",30.19,71.458
+"68","MTD2266","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-250.217815279276,0.762518616852477,"sub-tropical",30.19,71.458
+"69","MTD2267","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-248.530397941882,0.710080585019611,"sub-tropical",30.19,71.458
+"70","MTD2268","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-244.732730702507,0.591243436543496,"sub-tropical",30.19,71.458
+"71","MTD2269","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-243.531457519319,0.674665413282694,"sub-tropical",30.19,71.458
+"72","MTD227","Metazoa","Stethorus punctum","Consumption","sharpeschoolhigh",-148.237624302799,0.544762095585389,"sub-tropical",39.93,-77.248
+"73","MTD2270","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-257.100077696694,0.698492369345006,"sub-tropical",30.19,71.458
+"74","MTD2271","Fungi","Paecilomyces fumosoroseus","Growth","sharpeschoolhigh",-249.268704405035,0.754278420342478,"sub-tropical",30.19,71.458
+"75","MTD2272","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-258.079190097165,-5.19070077121122,"temperate",44.601,6.323
+"76","MTD2273","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-307.477844031537,0.788106333750542,"temperate",48.85,2.637
+"77","MTD2274","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-308.295424710763,1.07653231875914,"tropical",4.571,-74.297
+"78","MTD2275","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-307.481935323063,0.773862552056996,"temperate",47.134,6.022
+"79","MTD2277","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-291.212462975335,0.756965980884065,"temperate",47.516,14.55
+"80","MTD2278","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-298.244372964526,-3.36931455123632,"tropical",-18.767,46.869
+"81","MTD2279","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-297.357740362479,0.898888633155958,"temperate",48.318,7.442
+"82","MTD228","Metazoa","Stethorus punctum","Consumption","sharpeschoolhigh",-184.035884287174,0.622386746767114,"sub-tropical",39.93,-77.248
+"83","MTD2280","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-250.361440428766,1.22123975795282,"temperate",40.464,-3.749
+"84","MTD2281","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-292.63749352054,0.888615645984166,"temperate",48.553,1.199
+"85","MTD2282","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-289.688311999859,-2.63964501007423,"temperate",44.7,-0.3
+"86","MTD2283","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-340.757902015109,0.725737822682274,"sub-tropical",36.205,138.253
+"87","MTD2284","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-293.646273763122,0.572061689140118,"tropical",-21.125,55.547
+"88","MTD2285","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-297.22095021137,0.637359025186871,"tropical",21.522,-77.781
+"89","MTD2286","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-248.610850041663,-2.86951753370558,"temperate",47.467,-0.55
+"90","MTD2287","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-290.074279987086,0.65103740796243,"sub-tropical",27.547,-81.519
+"91","MTD2288","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-301.292124955185,-5.00402406025655,"temperate",48.85,2.637
+"92","MTD2289","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-248.149489992368,0.730166281358894,"sub-tropical",31.792,-7.093
+"93","MTD2290","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-292.192808535664,-2.17901158760117,"temperate",51.919,19.145
+"94","MTD2291","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-294.125414148524,-4.21825812035196,"sub-tropical",35.862,104.195
+"95","MTD2292","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-290.441374075825,0.892239772104798,"temperate",51.919,19.145
+"96","MTD2293","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-248.011409585081,0.596669013491004,"temperate",47.754,1.67
+"97","MTD2294","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-291.391414734571,0.729221210443583,"temperate",48.85,48.85
+"98","MTD2295","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-285.24709918526,0.812994076190178,"temperate",48.223,2.906
+"99","MTD2296","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-289.401781878842,0.902474053109267,"tropical",16.996,-62.068
+"100","MTD2297","Fungi","Beauveria bassiana","Growth","sharpeschoollow",-288.694419125032,-2.30580449903756,"tropical",-18.767,46.869
+"101","MTD2298","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-288.629759398646,0.629902624068269,"sub-tropical",27.665,-81.516
+"102","MTD2299","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-251.464241921771,0.830280640166866,"tropical",-14.235,-51.925
+"103","MTD2300","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-249.888046487269,0.755714352968216,"tropical",12.865,-85.207
+"104","MTD2301","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-297.696327530602,-4.19995660269193,"tropical",-0.228,15.828
+"105","MTD2302","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-301.469792069111,-1.39638980212633,"tropical",-21.125,55.547
+"106","MTD2303","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-257.63903245757,-1.64040074134231,"tropical",-18.767,46.869
+"107","MTD2304","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-292.932954405075,0.699252383811946,"sub-tropical",39.4,-8.224
+"108","MTD2305","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-303.156746778773,0.807045987441007,"tropical",3.557,-52.449
+"109","MTD2306","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-290.914694539132,0.80271647814592,"tropical",8.624,0.835
+"110","MTD2307","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-292.987972402591,0.73751576232992,"tropical",4.571,-74.297
+"111","MTD2308","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-287.871712531167,-2.55989972203079,"temperate",45.254,-69.445
+"112","MTD2309","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-246.8792426277,0.633226825865908,"sub-tropical",30.155,120.157
+"113","MTD2310","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-306.604860974437,0.653423658905734,"sub-tropical",39.436,-100.371
+"114","MTD2311","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-292.830909815258,0.474205702368684,"temperate",53.933,-116.577
+"115","MTD2312","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-288.904164535319,-1.90407972323174,"sub-tropical",30.145,69.346
+"116","MTD2313","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-311.192728496661,-5.97545467232435,"sub-tropical",30.375,69.345
+"117","MTD2314","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-297.270156251789,0.764363116640258,"temperate",50.583,-114.829
+"118","MTD2315","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-297.067411907234,0.532642874732038,"sub-tropical",-33.841,151.216
+"119","MTD2316","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-316.582254309031,0.559161546363893,"temperate",42.956,-0.242
+"120","MTD2317","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-286.900998375056,0.483908342590178,"tropical",-12.616,-47.884
+"121","MTD2318","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-290.544271151433,0.657347440563113,"temperate",53.933,-116.577
+"122","MTD2319","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-252.253394963631,0.848885961607472,"temperate",53.933,-116.577
+"123","MTD2320","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-254.409750878448,1.60144092170102,"tropical",12.233,-1.56
+"124","MTD2321","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-292.54204164284,1.1720254189224,"tropical",12.233,-1.56
+"125","MTD2322","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-256.233014978682,-2.67783060263725,"tropical",12.233,-1.56
+"126","MTD2323","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-295.408981277252,0.711814107613754,"tropical",12.233,-1.56
+"127","MTD2324","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-289.467532913787,1.05736974165501,"temperate",50.583,-114.829
+"128","MTD2325","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-291.053464273038,0.653577418372378,"temperate",50.583,-114.829
+"129","MTD2326","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-286.387667956137,0.692622115260607,"temperate",50.583,-114.829
+"130","MTD2327","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-308.161262973666,0.572786956653941,"tropical",12.233,-1.56
+"131","MTD2328","Fungi","Beauveria bassiana","Growth","sharpeschoollow",-312.465822270943,-5.97522829155571,"temperate",50.583,-114.829
+"132","MTD2329","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-303.140626479431,0.788582949659923,"temperate",50.583,-114.829
+"133","MTD2330","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-289.768834735,0.851527952032431,"temperate",50.583,-114.829
+"134","MTD2331","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-287.615556477801,0.696824502573543,"tropical",6.733,2.133
+"135","MTD2332","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-295.021424794497,0.746741477615559,"tropical",6.733,2.133
+"136","MTD2333","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-299.307703223895,0.610698736857609,"tropical",6.733,2.133
+"137","MTD2334","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-295.116223901924,0.823852462280132,"tropical",12.233,-1.56
+"138","MTD2335","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-305.759252828694,0.650014274691734,"sub-tropical",35.24,24.809
+"139","MTD2336","Fungi","Beauveria bassiana","Growth","sharpeschoolhigh",-296.471993450522,0.749075559570129,"sub-tropical",35.24,24.809
+"140","MTD3141","Plantae","Gossypium barbadense","Photosynthesis","sharpeschoolhigh",-177.794260956831,1.99219534619244,"sub-tropical",34.048928,-111.093731
+"141","MTD3143","Plantae","Gossypium barbadense","Photosynthesis","sharpeschoolhigh",-222.632173183476,1.2202299561059,"sub-tropical",34.048928,-111.093731
+"142","MTD3144","Plantae","Zostera marina","Photosynthesis","sharpeschoolhigh",-190.020124162564,-0.837331360840939,"temperate",40.516667,-70.666667
+"143","MTD3158","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolfull",-91.1795540573583,16.9466790539381,"temperate",51.227741,6.773456
+"144","MTD3239","Plantae","Glycine max","Respiration","sharpeschoollow",-613.912475843787,0.339489778568756,"temperate",41.600545,-93.609106
+"145","MTD3249","Plantae","Agropyron smithii","Photosynthesis","sharpeschoolfull",-248.300761433476,0.0196761186335821,"sub-tropical",39.550051,-105.782067
+"146","MTD3250","Plantae","Agropyron smithii","Photosynthesis","sharpeschoolfull",-307.114837020232,0.099687334333743,"sub-tropical",39.550051,-105.782067
+"147","MTD3251","Plantae","Agropyron smithii","Photosynthesis","sharpeschoolfull",-317.417263095972,-1.73695862315872,"sub-tropical",39.550051,-105.782067
+"148","MTD3272","Plantae","Geraea canescens","Photosynthesis","sharpeschoolhigh",-144.727909559453,0.725782612966303,"sub-tropical",36.482106,-117.129707
+"149","MTD3273","Plantae","Geraea canescens","Photosynthesis","sharpeschoolhigh",-181.087025190667,0.767644726087741,"sub-tropical",36.482106,-117.129707
+"150","MTD3276","Plantae","Porphyra perforata","Photosynthesis","sharpeschoolhigh",-171.294784467285,0.451979096980396,"sub-tropical",36.617737,-121.916622
+"151","MTD3285","Plantae","Agave deserti","Respiration","sharpeschoolhigh",-314.554437956541,0.387582360180135,"sub-tropical",33.633333,-116.4
+"152","MTD3286","Plantae","Agave deserti","Respiration","sharpeschoolhigh",-242.215759895911,0.323072943461846,"sub-tropical",33.633333,-116.4
+"153","MTD3287","Plantae","Agave deserti","Respiration","sharpeschoolhigh",-327.634364413274,0.397828040460752,"sub-tropical",33.633333,-116.4
+"154","MTD3289","Plantae","Agave deserti","Respiration","sharpeschoolhigh",-486.08928365742,0.545885997436858,"sub-tropical",33.633333,-116.4
+"155","MTD3290","Plantae","Agave deserti","Respiration","sharpeschoolhigh",-486.492111878029,-1.10353165335316,"sub-tropical",33.633333,-116.4
+"156","MTD3321","Plantae","Larrea divaricata","Photosynthesis","sharpeschoolhigh",-134.604774430067,-0.354008946091843,"sub-tropical",36.482106,-117.129707
+"157","MTD3322","Plantae","Larrea divaricata","Photosynthesis","sharpeschoolfull",-303.784647144542,-0.245859905568289,"sub-tropical",36.482106,-117.129707
+"158","MTD3323","Plantae","Larrea divaricata","Photosynthesis","sharpeschoolfull",-588.229200020414,0.172112010513501,"sub-tropical",36.482106,-117.129707
+"159","MTD3339","Plantae","Helianthus annuus","Respiration","sharpeschoolhigh",-198.808556404075,0.0664870364101908,"temperate",41.05,16.866667
+"160","MTD3342","Plantae","Triticum durum","Respiration","sharpeschoolhigh",-225.7608009446,4.35649346209085,"temperate",41.05,16.866667
+"161","MTD336","Metazoa","Carcinus maenas","Consumption","sharpeschoolhigh",-515.213414580051,-15.5396232477214,"temperate",53.324,-3.834
+"162","MTD336","Metazoa","Carcinus maenas","Consumption","sharpeschoolhigh",-515.213414580051,-15.5396232477214,"temperate",53.282,-3.828
+"163","MTD336","Metazoa","Carcinus maenas","Consumption","sharpeschoolhigh",-515.213414580051,-15.5396232477214,"sub-tropical",39.618,-76.269
+"164","MTD3361","Plantae","Pinus radiata","Respiration","sharpeschoolhigh",-374.760784581198,-0.210429055007529,"temperate",-43.416667,172.966667
+"165","MTD3363","Plantae","Eucheuma isiforme","Photosynthesis","sharpeschoolhigh",-201.514162666745,4.42096074601901,"sub-tropical",24.683333,-81.2
+"166","MTD3364","Plantae","Eucheuma isiforme","Photosynthesis","sharpeschoolhigh",-179.668510053237,-0.614486349989604,"sub-tropical",24.65,-81.283333
+"167","MTD3365","Plantae","Eucheuma nudum","Photosynthesis","sharpeschoolhigh",-172.513928823815,2.97902035525647,"sub-tropical",28.2,-82.986944
+"168","MTD3366","Plantae","Eucheuma acanthocladum","Photosynthesis","sharpeschoolhigh",-186.078047402084,-1.29683052152625,"sub-tropical",28.2,-82.986944
+"169","MTD3367","Plantae","Eucheuma gelidium","Photosynthesis","sharpeschoolhigh",-168.363733783654,1.23220813258392,"sub-tropical",24.683333,-81.2
+"170","MTD3369","Plantae","Eucheuma isiforme","Respiration","sharpeschoolhigh",-193.394464525922,1.64904567851356,"sub-tropical",24.65,-81.283333
+"171","MTD337","Metazoa","Carcinus maenas","Consumption","sharpeschoolhigh",-587.339027681092,-0.877713930109053,"temperate",53.324,-3.834
+"172","MTD337","Metazoa","Carcinus maenas","Consumption","sharpeschoolhigh",-587.339027681092,-0.877713930109053,"temperate",53.282,-3.828
+"173","MTD337","Metazoa","Carcinus maenas","Consumption","sharpeschoolhigh",-587.339027681092,-0.877713930109053,"sub-tropical",39.618,-76.269
+"174","MTD3376","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolhigh",-63.6481915583236,1.55072689365823,"temperate",51.227741,6.773456
+"175","MTD3377","Plantae","Spinacia oleracea","Respiration","sharpeschoolhigh",-101.309236391606,1.44432626459744,"temperate",51.227741,6.773456
+"176","MTD3379","Plantae","Valerianella locusta","Respiration","sharpeschoollow",-122.965321741859,-0.189505805791413,"temperate",51.227741,6.773456
+"177","MTD3380","Plantae","Valerianella locusta","Respiration","sharpeschoolhigh",-113.912866628047,-1.61116868240347,"temperate",51.227741,6.773456
+"178","MTD3385","Plantae","Rosa hybrida","Photosynthesis","sharpeschoolfull",-1003.03096708181,0.078318610642371,"sub-tropical",38.544907,-121.740517
+"179","MTD3392","Chromista","Emiliania huxleyi","Photosynthesis","sharpeschoolhigh",-503.372054340277,-3.19347082222171,"temperate",49.188971,-0.363888
+"180","MTD3393","Chromista","Isochrysis galbana","Photosynthesis","sharpeschoolhigh",-408.102257145997,0.178220749782013,"temperate",49.188971,-0.363888
+"181","MTD3403","Plantae","Chlorella vulgaris","Photosynthesis","sharpeschoolhigh",97.3370366951642,-1.48612375845671,"sub-tropical",31.773089,-106.505733
+"182","MTD3404","Plantae","Chlorella vulgaris","Photosynthesis","sharpeschoolhigh",28.9271712768857,-1.23951753227375,"sub-tropical",31.773089,-106.505733
+"183","MTD3407","Bacteria","Synechococcus sp.","Photosynthesis","sharpeschoolhigh",84.6763020050565,-2.98707169080951,"sub-tropical",31.773089,-106.505733
+"184","MTD3408","Bacteria","Synechococcus sp.","Photosynthesis","sharpeschoolhigh",54.4137534732384,0.200146614233757,"sub-tropical",31.773089,-106.505733
+"185","MTD3416","Plantae","Ipomoea batatas","Photosynthesis","sharpeschoolhigh",-670.100504244136,0.840847410581475,"temperate",43.662892,-79.395656
+"186","MTD3417","Plantae","Ipomoea batatas","Photosynthesis","sharpeschoolhigh",-622.977627190522,0.619716188200992,"temperate",43.662892,-79.395656
+"187","MTD3418","Plantae","Ipomoea batatas","Photosynthesis","sharpeschoolhigh",-581.012667715298,0.492337292808661,"temperate",43.662892,-79.395656
+"188","MTD3419","Plantae","Triticum durum","Photosynthesis","sharpeschoolhigh",-566.402464296385,-0.757094495823837,"sub-tropical",33.075,111.983
+"189","MTD3420","Plantae","Triticum durum","Photosynthesis","sharpeschoolhigh",-487.547989635009,1.10441166542177,"sub-tropical",33.075,111.983
+"190","MTD3425","Plantae","Quercus ilex","Photosynthesis","sharpeschoolhigh",-8650.26702094825,0.672924198041398,"temperate",43,11
+"191","MTD3429","Plantae","Quercus myrsinaefolia","Photosynthesis","sharpeschoolfull",-595.399568996717,-5.5052112677209,"sub-tropical",38.257508,140.835709
+"192","MTD3430","Plantae","Quercus myrsinaefolia","Photosynthesis","sharpeschoolhigh",-779.092165082486,0.362913457884118,"sub-tropical",38.257508,140.835709
+"193","MTD3431","Plantae","Tidestromia oblongifolia","Photosynthesis","sharpeschoolfull",-279.160752314252,0.50921202064321,"sub-tropical",37.427475,-122.169719
+"194","MTD3433","Plantae","Phaseolus vulgaris","Photosynthesis","sharpeschoolhigh",-141.805115996629,0.14989133204383,"sub-tropical",39.544969,-119.816574
+"195","MTD3434","Plantae","Phaseolus vulgaris","Photosynthesis","sharpeschoolhigh",-198.342422050659,-0.940731575841937,"sub-tropical",39.544969,-119.816574
+"196","MTD3439","Plantae","Scrophularia desertorum","Photosynthesis","sharpeschoolhigh",-128.238839245685,0.128716298715349,"sub-tropical",39.544969,-119.816574
+"197","MTD344","Metazoa","Cicindela hybrida","Foraging Velocity","sharpeschoolhigh",-472.213344185787,1.42758646043069,"temperate",56.264,9.502
+"198","MTD3440","Plantae","Scrophularia desertorum","Photosynthesis","sharpeschoolhigh",-148.201360724318,-1.71231792989896,"sub-tropical",39.544969,-119.816574
+"199","MTD3441","Plantae","Cardaria draba","Photosynthesis","sharpeschoolhigh",-125.205101571552,0.148034470322567,"sub-tropical",39.544969,-119.816574
+"200","MTD3442","Plantae","Cardaria draba","Photosynthesis","sharpeschoolhigh",-140.319090016298,-1.00545680293544,"sub-tropical",39.544969,-119.816574
+"201","MTD3444","Plantae","Populus fremontii","Photosynthesis","sharpeschoolhigh",-160.813405534137,0.118883741786345,"sub-tropical",39.544969,-119.816574
+"202","MTD3445","Plantae","Lemna minor","Photosynthesis","sharpeschoolhigh",-178.287325147571,-0.738430191741071,"temperate",40.898551,-77.797901
+"203","MTD3446","Plantae","Spirodela punctata","Photosynthesis","sharpeschoolhigh",-173.06997146044,0.681484821619311,"temperate",40.799673,-77.863064
+"204","MTD3447","Plantae","Myriophyllum spicatum","Photosynthesis","sharpeschoollow",9.54929177381574,-1.91652635099548,"temperate",43.054424,-89.415098
+"205","MTD3448","Plantae","Vallisneria americana","Photosynthesis","sharpeschoolhigh",-12.1073502865402,-1.96752012595617,"temperate",43.082361,-89.421014
+"206","MTD3454","Bacteria","Chromatium sp.","Photosynthesis","sharpeschoolhigh",101.638680484041,-0.85158045009711,"sub-tropical",36.476394,138.867414
+"207","MTD3470","Chromista","Cylindrotheca closterium","Photosynthesis","sharpeschoolhigh",16.6663532996648,2.14515641957343,"temperate",53.5,7
+"208","MTD3480","Plantae","Cyanidium caldarium","Photosynthesis","sharpeschoolhigh",-47.2617386658339,0.616057005702392,"temperate",44.427963,-110.588455
+"209","MTD3531","Plantae","Enteromorpha intestinalis","Respiration","sharpeschoollow",-180.922276686897,0.0354732676596385,"temperate",51.361047,1.024256
+"210","MTD3533","Plantae","Ulva lactuca","Respiration","sharpeschoolhigh",-193.382636202977,-1.89963420340188,"temperate",51.361047,1.024256
+"211","MTD3534","Plantae","Chondrus crispus","Respiration","sharpeschoolhigh",-186.309310497075,0.398725039138606,"temperate",51.361047,1.024256
+"212","MTD3535","Plantae","Griffithsia flosculosa","Respiration","sharpeschoolhigh",-185.71216217509,0.504853051458669,"temperate",51.361047,1.024256
+"213","MTD3536","Plantae","Porphyra umbilicalis","Respiration","sharpeschoolfull",-186.136933357843,-1.5687362573406,"temperate",51.361047,1.024256
+"214","MTD3537","Plantae","Enteromorpha intestinalis","Respiration","sharpeschoolfull",-219.656081064577,-1.34051716298784,"temperate",51.361047,1.024256
+"215","MTD3538","Chromista","Fucus ceranoides","Respiration","sharpeschoolhigh",-210.32988898255,0.624701443424515,"temperate",51.361047,1.024256
+"216","MTD3540","Plantae","Chondrus crispus","Respiration","sharpeschoolhigh",-232.153079505626,-0.667889525761375,"temperate",51.361047,1.024256
+"217","MTD3541","Plantae","Griffithsia flosculosa","Respiration","sharpeschoolhigh",-228.038156351409,0.703731922443751,"temperate",51.361047,1.024256
+"218","MTD3542","Plantae","Porphyra umbilicalis","Respiration","sharpeschoolhigh",-226.728105063114,0.0359670056674923,"temperate",51.361047,1.024256
+"219","MTD3569","Plantae","Ferocactus acanthodes","Respiration","sharpeschoolhigh",-263.040337156326,0.455654367194898,"sub-tropical",33.633333,-116.4
+"220","MTD3571","Plantae","Ferocactus acanthodes","Respiration","sharpeschoolhigh",-285.445977813285,0.343307276880595,"sub-tropical",33.633333,-116.4
+"221","MTD3573","Plantae","Opuntia ficus-indica","Respiration","sharpeschoolhigh",-272.809933338816,0.386743213519155,"sub-tropical",34.116667,-117.5
+"222","MTD3575","Plantae","Opuntia ficus-indica","Respiration","sharpeschoolhigh",-260.291876283097,0.256532662007467,"sub-tropical",34.116667,-117.5
+"223","MTD3578","Plantae","Plantago lanceolata","Respiration","sharpeschoolhigh",-216.848752614572,0.763797616700949,"temperate",52.613969,0.886402
+"224","MTD3581","Plantae","Plantago lanceolata","Respiration","sharpeschoolhigh",-152.112565841478,-0.201952351940709,"temperate",52.613969,0.886402
+"225","MTD3584","Plantae","Plantago lanceolata","Respiration","sharpeschoolhigh",-116.459350058173,-0.481061442411191,"temperate",52.613969,0.886402
+"226","MTD3593","Plantae","Eucalyptus marginata","Respiration","sharpeschoollow",-417.222549766149,0.511010760262138,"sub-tropical",-27.937133,152.982251
+"227","MTD3597","Plantae","Rhagodia baccata","Respiration","sharpeschoollow",-458.105090872051,0.538244038413663,"sub-tropical",-27.423739,117.898629
+"228","MTD3622","Plantae","Lycopersicum esculentum","Photosynthesis","sharpeschoolhigh",97.7506904737596,0.0320611749788289,"temperate",41.745161,-111.809742
+"229","MTD3627","Plantae","Pinus elliottii","Respiration","sharpeschoolhigh",108.427936896792,0.440057438570381,"sub-tropical",29.733333,-82.15
+"230","MTD3632","Fungi","Cladonia convoluta","Respiration","sharpeschoolhigh",-12683.7029837231,1.08315677474821,"temperate",50.004866,9.82474
+"231","MTD3636","Fungi","Diploschistes muscorum","Respiration","sharpeschoolhigh",-10682.1282650249,-4.92992284280524,"temperate",50.004866,9.82474
+"232","MTD3637","Fungi","Diploschistes muscorum","Respiration","sharpeschoolhigh",-14002.5837648713,1.24801921297863,"temperate",50.004866,9.82474
+"233","MTD3638","Plantae","Lycopersicum esculentums","Respiration","sharpeschoolhigh",76.4356433626576,2.29491267294506,"sub-tropical",34.413963,-119.848947
+"234","MTD3639","Plantae","Brassica oleracea","Respiration","sharpeschoolhigh",70.9555673130483,3.24516352306131,"sub-tropical",34.413963,-119.848947
+"235","MTD3678","Plantae","Aristotelia serrata","Respiration","sharpeschoolhigh",-843.312234267534,0.439518679784711,"temperate",-42.76,171.55
+"236","MTD3681","Plantae","Phillyrea latifolia","Photosynthesis","sharpeschoolhigh",-272.480057898541,1.12784057414261,"temperate",41.898056,12.479444
+"237","MTD3682","Plantae","Myrtus communis","Photosynthesis","sharpeschoolhigh",-272.527985727765,-0.562902069653477,"temperate",41.898056,12.479444
+"238","MTD3683","Plantae","Arbutus unedo","Photosynthesis","sharpeschoolhigh",-262.70807750564,1.67609931574142,"temperate",41.898056,12.479444
+"239","MTD3684","Plantae","Cistus incanus","Photosynthesis","sharpeschoolhigh",-249.447073513416,3.23546925204753,"temperate",41.898056,12.479444
+"240","MTD3691","Plantae","Dracunculus vulgaris","Respiration","sharpeschoollow",-171.50333925758,-3.96431239366552,"sub-tropical",-34.928621,138.599959
+"241","MTD3702","Chromista","Phaeodactylum tricornutum","Photosynthesis","sharpeschoolhigh",-142.58202593033,0.710523589114734,"temperate",42.373616,-71.109734
+"242","MTD3703","Chromista","Phaeodactylum tricornutum","Photosynthesis","sharpeschoolhigh",-620.050165283699,0.648956752073036,"temperate",42.373616,-71.109734
+"243","MTD3708","Plantae","Atriplex lentiformis","Photosynthesis","sharpeschoolfull",-440.937577211632,-0.4952054145407,"sub-tropical",36.482106,-117.129707
+"244","MTD3709","Plantae","Atriplex lentiformis","Photosynthesis","sharpeschoolfull",-426.114488421831,-0.632538246730865,"sub-tropical",34.274646,-119.229032
+"245","MTD3710","Plantae","Atriplex lentiformis","Photosynthesis","sharpeschoolfull",-464.766663958763,-0.642358207084685,"sub-tropical",36.482106,-117.129707
+"246","MTD3711","Plantae","Atriplex lentiformis","Photosynthesis","sharpeschoolfull",-488.015416541095,0.639614080571014,"sub-tropical",34.274646,-119.229032
+"247","MTD3744","Plantae","Lolium perenne","Photosynthesis","sharpeschoolhigh",-277.622140905836,-0.279960831038591,"temperate",41.385064,2.173403
+"248","MTD3758","Plantae","Encelia californica","Photosynthesis","sharpeschoolhigh",-124.795401279809,0.58516557124364,"sub-tropical",36.482106,-117.129707
+"249","MTD3762","Plantae","Encelia farinosa","Photosynthesis","sharpeschoolhigh",-135.00426135569,-0.272681923447364,"sub-tropical",36.482106,-117.129707
+"250","MTD3764","Plantae","Heuchera americana","Photosynthesis","sharpeschoolhigh",-469.956417825405,0.787082662052887,"sub-tropical",36,79
+"251","MTD3765","Plantae","Heuchera americana","Photosynthesis","sharpeschoolhigh",-385.648326315221,-0.288963883620429,"sub-tropical",36,79
+"252","MTD3767","Plantae","Geraea canescens","Photosynthesis","sharpeschoolhigh",84.0587816576528,0.279729559725871,"sub-tropical",36.482106,-117.129707
+"253","MTD3776","Plantae","Atriplex hymenelytra","Photosynthesis","sharpeschoolhigh",-299.145329111496,1.89450701805936,"sub-tropical",36.482106,-117.129707
+"254","MTD3777","Plantae","Atriplex hymenelytra","Photosynthesis","sharpeschoolhigh",-280.520388261132,1.27794126467801,"sub-tropical",36.482106,-117.129707
+"255","MTD3784","Plantae","Quercus macrocarpa","Photosynthesis","sharpeschoolhigh",-187.743258232366,-4.01747351663897,"temperate",42.218735,-123.273955
+"256","MTD3792","Bacteria","Synechocystis sp.","Photosynthesis","sharpeschoolhigh",-26.7953043344147,0.475036145900724,"sub-tropical",34.678305,135.052104
+"257","MTD3839","Plantae","Atriplex vesicaria","Photosynthesis","sharpeschoolhigh",-350.424148034668,-2.46848647552119,"sub-tropical",-35.583,-145.033
+"258","MTD3841","Plantae","Atriplex confertifolia","Photosynthesis","sharpeschoolfull",-376.943726790834,-0.535130131703243,"temperate",41.867,113.083
+"259","MTD3873","Plantae","Triticum aestivum","Photosynthesis","sharpeschoolhigh",-167.891497661032,1.01949412338187,"sub-tropical",34.678305,135.052104
+"260","MTD3874","Plantae","Triticum aestivum","Photosynthesis","sharpeschoolhigh",-135.202630409952,0.217222241575294,"sub-tropical",34.678305,135.052104
+"261","MTD3876","Plantae","Phaseolus vulgaris","Photosynthesis","sharpeschoolhigh",-168.941607671894,-1.17051744732622,"temperate",43.662892,-79.395656
+"262","MTD3877","Plantae","Phaseolus vulgaris","Photosynthesis","sharpeschoolhigh",-235.784551916553,0.56536290139538,"temperate",43.662892,-79.395656
+"263","MTD3878","Plantae","Phaseolus vulgaris","Photosynthesis","sharpeschoolhigh",-223.014854599926,0.387210743459927,"temperate",43.662892,-79.395656
+"264","MTD3879","Plantae","Phaseolus vulgaris","Photosynthesis","sharpeschoolhigh",-179.232084350513,1.53282410657212,"temperate",43.662892,-79.395656
+"265","MTD3880","Plantae","Phaseolus vulgaris","Photosynthesis","sharpeschoolhigh",-290.761453153155,-0.832283767555122,"temperate",43.662892,-79.395656
+"266","MTD3881","Plantae","Phaseolus vulgaris","Photosynthesis","sharpeschoolhigh",-262.304610411783,0.700924287102215,"temperate",43.662892,-79.395656
+"267","MTD3882","Plantae","Phaseolus vulgaris","Photosynthesis","sharpeschoolhigh",-227.700333004623,-0.848836652056158,"temperate",43.662892,-79.395656
+"268","MTD3883","Plantae","Phaseolus vulgaris","Photosynthesis","sharpeschoolhigh",-207.172948077692,0.346861872440023,"temperate",43.662892,-79.395656
+"269","MTD3889","Plantae","Muhlenbergia montana","Photosynthesis","sharpeschoolhigh",-236.875593583197,0.226068765541701,"sub-tropical",39.417,105.75
+"270","MTD3890","Plantae","Muhlenbergia montana","Photosynthesis","sharpeschoolhigh",-172.672090036003,0.224141819336789,"sub-tropical",39.417,105.75
+"271","MTD3896","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolhigh",-282.059828323127,0.345260907642537,"sub-tropical",34.781266,135.469739
+"272","MTD3897","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolfull",-261.540904964153,0.321520094505032,"sub-tropical",34.781266,135.469739
+"273","MTD3898","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolhigh",-252.200182859135,-0.544220681881284,"sub-tropical",34.781266,135.469739
+"274","MTD3899","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolfull",-258.121791732565,0.243168711868658,"sub-tropical",34.781266,135.469739
+"275","MTD3900","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolfull",-241.159171978766,6.60845581755474,"sub-tropical",34.781266,135.469739
+"276","MTD3902","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolhigh",-220.110505422326,0.163117159434338,"sub-tropical",34.781266,135.469739
+"277","MTD3903","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolhigh",-224.34900370687,0.163460444235651,"sub-tropical",34.781266,135.469739
+"278","MTD3904","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolhigh",-220.945686725371,0.1384240231582,"sub-tropical",34.781266,135.469739
+"279","MTD3905","Plantae","Spinacia oleracea","Photosynthesis","sharpeschoolhigh",-229.139187348024,0.167532860019562,"sub-tropical",34.781266,135.469739
+"280","MTD3907","Plantae","Chrysanthemum morifolium","Photosynthesis","sharpeschoolhigh",-291.095405113583,0.329864242948866,"temperate",43.073052,-89.40123
+"281","MTD4001","Plantae","Nerium oleander","Photosynthesis","sharpeschoolfull",-290.303582036865,-0.0406126065394547,NA,NA,NA
+"282","MTD4002","Plantae","Nerium oleander","Photosynthesis","sharpeschoolhigh",-269.647360872131,-1.36363673755633,NA,NA,NA
+"283","MTD4003","Plantae","Nerium oleander","Photosynthesis","sharpeschoolfull",-345.792896851983,0.0416962219573463,NA,NA,NA
+"284","MTD4004","Plantae","Nerium oleander","Photosynthesis","sharpeschoolfull",-502.326851748483,0.431662132358941,NA,NA,NA
+"285","MTD4005","Plantae","Olea europaea","Photosynthesis","sharpeschoolhigh",-157.095342682655,0.236225314525643,NA,NA,NA
+"286","MTD4019","Plantae","Quercus suber","Photosynthesis","sharpeschoolhigh",-523.833017367738,0.471109950520315,"sub-tropical",36.126929,-97.073704
+"287","MTD4034","Plantae","Lomentaria baileyana","Photosynthesis","sharpeschoolhigh",-166.392491333101,0.444287088913632,NA,NA,NA
+"288","MTD4035","Plantae","Lomentaria orcadensis","Photosynthesis","sharpeschoolhigh",-168.846493544477,0.514980817548094,NA,NA,NA
+"289","MTD4059","Plantae","Zostera marina","Photosynthesis","sharpeschoolhigh",-196.647138707955,-5.91234106394474,"temperate",55.037043,8.420516
+"290","MTD4080","Plantae","Agropyron smithii","Photosynthesis","sharpeschoolhigh",-255.121294327477,0.637937778766407,"temperate",41,-104
+"291","MTD4081","Plantae","Agropyron smithii","Photosynthesis","sharpeschoolfull",-220.005684324983,-0.0442769241720774,"temperate",41,-104
+"292","MTD4082","Plantae","Bouteloua gracilis","Photosynthesis","sharpeschoolhigh",-240.721669809552,0.176416666160569,"temperate",41,-104
+"293","MTD4083","Plantae","Bouteloua gracilis","Photosynthesis","sharpeschoolhigh",-257.746083375117,0.142711136851542,"temperate",41,-104
+"294","MTD4084","Plantae","Buchloe dactyloides","Photosynthesis","sharpeschoolhigh",-138.049568774738,-2.00649127691428,"temperate",41,-104
+"295","MTD4085","Plantae","Buchloe dactyloides","Photosynthesis","sharpeschoolhigh",-136.762641418498,0.629587479795629,"temperate",41,-104
+"296","MTD4086","Plantae","Carex eleocharis","Photosynthesis","sharpeschoolfull",-308.432881770955,-2.32150494537623,"temperate",41,-104
+"297","MTD4087","Plantae","Carex eleocharis","Photosynthesis","sharpeschoolfull",-236.397427636105,0.0570845113631247,"temperate",41,-104
+"298","MTD4088","Plantae","Agropyron smithii","Photosynthesis","sharpeschoolfull",-350.128033038111,0.0560657228349805,"temperate",41,-104
+"299","MTD4089","Plantae","Agropyron smithii","Photosynthesis","sharpeschoolhigh",-240.012054048626,-1.00955213158343,"temperate",41,-104
+"300","MTD4090","Plantae","Carex eleocharis","Photosynthesis","sharpeschoolfull",-293.422293774713,-1.77873879145592,"temperate",41,-104
+"301","MTD4091","Plantae","Carex eleocharis","Photosynthesis","sharpeschoolhigh",-293.292005267342,-2.30454026987809,"temperate",41,-104
+"302","MTD4142","Plantae","Chylismia brevipes","Photosynthesis","sharpeschoolfull",-352.555188052205,-0.0842629001084988,"sub-tropical",36.454032,-116.870409
+"303","MTD4146","Plantae","Triticum aestivum","Respiration","sharpeschoollow",-313.217592069116,6.64717543012374e-07,"sub-tropical",39,115
+"304","MTD4225","Plantae","Larix decidua","Photosynthesis","sharpeschoolhigh",-507.760778482821,1.13180252808106,"temperate",46.605103,13.850813
+"305","MTD4226","Plantae","Larix decidua","Photosynthesis","sharpeschoolhigh",-480.472035797918,0.359796692492925,"temperate",46.605103,13.850813
+"306","MTD4227","Plantae","Larix decidua","Photosynthesis","sharpeschoolhigh",-490.927760936747,1.08817797314851,"temperate",46.605103,13.850813
+"307","MTD4228","Plantae","Larix decidua","Photosynthesis","sharpeschoolhigh",-465.629187771764,0.368178035569465,"temperate",46.605103,13.850813
+"308","MTD4229","Plantae","Larix decidua","Photosynthesis","sharpeschoolhigh",-505.064341379672,-0.503355972143841,"temperate",46.605103,13.850813
+"309","MTD4230","Plantae","Larix decidua","Photosynthesis","sharpeschoolhigh",-446.167542468069,0.521150648014264,"temperate",46.605103,13.850813
+"310","MTD4231","Plantae","Larix decidua","Photosynthesis","sharpeschoolhigh",-472.585899540724,-0.540081419453078,"temperate",46.605103,13.850813
+"311","MTD4232","Plantae","Larix decidua","Photosynthesis","sharpeschoolhigh",-502.161897234917,1.35832995979904,"temperate",46.605103,13.850813
+"312","MTD4235","Plantae","Prunus persica","Respiration","sharpeschoollow",-401.106742582894,0.168610203035266,"temperate",45.8,3.2
+"313","MTD4236","Plantae","Prunus persica","Respiration","sharpeschoolhigh",-252.63491035542,-6.55371815289455,"temperate",43.9,4.8
+"314","MTD4246","Plantae","Colobanthus quitensis","Photosynthesis","sharpeschoolhigh",-220.608760341231,0.554155834314103,"cold zone",-64,-64
+"315","MTD4247","Plantae","Colobanthus quitensis","Photosynthesis","sharpeschoolhigh",-229.989224573382,2.64110917379949,"cold zone",-64,-64
+"316","MTD4248","Plantae","Deschampsia antarctica","Photosynthesis","sharpeschoolfull",-341.681015027984,0.213240434496508,"cold zone",-64,-64
+"317","MTD4249","Plantae","Deschampsia antarctica","Photosynthesis","sharpeschoolfull",-364.736020964749,-1.26148718832241,"cold zone",-64,-64
+"318","MTD4250","Plantae","Deschampsia antarctica","Photosynthesis","sharpeschoolhigh",-337.654794653445,-0.530370111841191,"cold zone",-64,-64
+"319","MTD4251","Plantae","Fagus silvatica","Photosynthesis","sharpeschoolhigh",-798.886032788511,-0.680850657534271,"temperate",49.3,18.53
+"320","MTD4252","Plantae","Fagus silvatica","Photosynthesis","sharpeschoolhigh",-485.680435178824,-1.88357893131062,"temperate",49.3,18.53
+"321","MTD4253","Plantae","Fagus silvatica","Photosynthesis","sharpeschoolhigh",-584.818272239031,-1.74396940887491,"temperate",49.3,18.53
+"322","MTD4254","Plantae","Fagus silvatica","Photosynthesis","sharpeschoolhigh",-584.156296343038,0.457834429853521,"temperate",49.3,18.53
+"323","MTD4255","Plantae","Picea abies","Photosynthesis","sharpeschoolfull",-732.466421979241,-1.86673637035611,"temperate",49.3,18.53
+"324","MTD4256","Plantae","Picea abies","Photosynthesis","sharpeschoolhigh",-503.196831677661,-0.646187841734568,"temperate",49.3,18.53
+"325","MTD4257","Plantae","Picea abies","Photosynthesis","sharpeschoolhigh",-505.021196331519,-0.92482146224661,"temperate",49.3,18.53
+"326","MTD4258","Plantae","Picea abies","Photosynthesis","sharpeschoolhigh",-535.997613141222,-1.59986796130611,"temperate",49.3,18.53
+"327","MTD4265","Plantae","Fagus silvatica","Photosynthesis","sharpeschoolhigh",-685.494066889734,0.46919441919757,"temperate",49.3,18.53
+"328","MTD4266","Plantae","Fagus silvatica","Photosynthesis","sharpeschoolhigh",-651.065304324325,0.402559116756072,"temperate",49.3,18.53
+"329","MTD4267","Plantae","Fagus silvatica","Photosynthesis","sharpeschoolhigh",-505.194871890654,-1.61449968485926,"temperate",49.3,18.53
+"330","MTD4268","Plantae","Fagus silvatica","Photosynthesis","sharpeschoolhigh",-651.448661226816,0.402325472909842,"temperate",49.3,18.53
+"331","MTD4269","Plantae","Picea abies","Photosynthesis","sharpeschoolhigh",-740.684317236248,0.248753176352811,"temperate",49.3,18.53
+"332","MTD4270","Plantae","Picea abies","Photosynthesis","sharpeschoolhigh",-539.783210335295,0.579094269914163,"temperate",49.3,18.53
+"333","MTD4271","Plantae","Picea abies","Photosynthesis","sharpeschoolfull",-518.147908702258,-1.45448737430861,"temperate",49.3,18.53
+"334","MTD4272","Plantae","Picea abies","Photosynthesis","sharpeschoolhigh",-539.97788915433,0.57368712749449,"temperate",49.3,18.53
+"335","MTD4290","Plantae","Eucalyptus pauciflora","Respiration","sharpeschoolhigh",-3392.2281416298,0.545520526008402,"sub-tropical",-35.75,148.9832
+"336","MTD4291","Plantae","Eucalyptus pauciflora","Respiration","sharpeschoolhigh",-4670.06412586453,0.576631907241513,"sub-tropical",-36.5,138.316
+"337","MTD4292","Plantae","Eucalyptus pauciflora","Respiration","sharpeschoolfull",-1519.82132190446,0.28917780791679,"sub-tropical",-36.5,138.316
+"338","MTD4293","Plantae","Eucalyptus pauciflora","Respiration","sharpeschoolhigh",-1382.65451992114,0.509718952649743,"sub-tropical",-36.5,138.316
+"339","MTD4392","Plantae","Betula nana nana","Respiration","sharpeschoolfull",-4253.94296608808,0.572877242994925,"cold zone",68.6356167,-149.6868262
+"340","MTD4520","Plantae","Phaseolus vulgaris","Respiration","sharpeschoolhigh",-630.893667807828,1.0085994319393,NA,NA,NA
+"341","MTD4521","Plantae","Eucalyptus pauciflora","Respiration","sharpeschoolhigh",-922.611169030216,0.51404846600131,NA,NA,NA
+"342","MTD4523","Plantae","Eucalyptus pauciflora","Respiration","sharpeschoolhigh",-550.479296028609,-10.6150544272664,NA,NA,NA
+"343","MTD4525","Plantae","Eucalyptus pauciflora","Respiration","sharpeschoolhigh",-938.840425433537,0.704108885261691,NA,NA,NA
+"344","MTD4526","Plantae","Eucalyptus pauciflora","Respiration","sharpeschoolhigh",-518.24531651361,0.386529476500785,NA,NA,NA
+"345","MTD4531","Plantae","Eucalyptus pauciflora","Respiration","sharpeschoolhigh",-475.805209910833,0.407332836392449,NA,NA,NA
+"346","MTD4538","Plantae","Eucalyptus clobulus","Respiration","sharpeschoolhigh",-329.121844278757,0.429603984439949,NA,NA,NA
+"347","MTD4539","Plantae","Eucalyptus clobulus","Respiration","sharpeschoolhigh",-322.742836913912,0.37834367798863,NA,NA,NA
+"348","MTD4540","Plantae","Eucalyptus clobulus","Respiration","sharpeschoolhigh",-258.076280886443,0.365480797928961,NA,NA,NA
+"349","MTD4541","Plantae","Eucalyptus clobulus","Respiration","sharpeschoolhigh",-274.116998826316,-1.48938530196418,NA,NA,NA
+"350","MTD4542","Plantae","Eucalyptus clobulus","Respiration","sharpeschoolhigh",-341.209982432892,0.355732265283436,NA,NA,NA
+"351","MTD4543","Plantae","Eucalyptus clobulus","Respiration","sharpeschoolhigh",-269.225257161911,0.246294994527482,NA,NA,NA
+"352","MTD4544","Plantae","Eucalyptus clobulus","Respiration","sharpeschoolhigh",-325.655923251391,0.421092945485035,NA,NA,NA
+"353","MTD4545","Plantae","Eucalyptus clobulus","Respiration","sharpeschoolhigh",-372.446391004906,0.423022415601433,NA,NA,NA
+"354","MTD4896","Bacteria","Streptococcus salivarius","Growth","sharpeschoolhigh",-406.753141680033,-2.30842291566576,NA,NA,NA
+"355","MTD4898","Bacteria","Lactococcus lactis","Growth","sharpeschoolfull",-683.173562332024,0.380039205343357,NA,NA,NA
+"356","MTD4900","Bacteria","Lactobacillus delbrueckii","Growth","sharpeschoolhigh",-329.359342562458,-1.35944091817292,NA,NA,NA
+"357","MTD4902","Bacteria","Lactobacillus acidophilus","Growth","sharpeschoolhigh",-263.252906298643,0.505400852480822,NA,NA,NA
+"358","MTD4904","Bacteria","Lactobacillus paracasei","Growth","sharpeschoolhigh",-855.632172687062,0.94716584798521,NA,NA,NA
+"359","MTD4914","Bacteria","Thermotoga sp.","Growth","sharpeschoolhigh",-193.379745364451,0.710229621108796,"temperate",40.7353,14.2753
+"360","MTD4919","Bacteria","Thermus aquaticus YT1","Growth","sharpeschoolhigh",-225.635647267842,-1.26971931459863,NA,NA,NA
+"361","MTD4920","Bacteria","Sulfobacillus thermotolerans","Growth","sharpeschoolhigh",-166.405107174222,1.57669754470042,NA,NA,NA
+"362","MTD4923","Bacteria","Colwellia demingiae","Growth","sharpeschoolhigh",-371.31995023516,-2.56876752708722,NA,NA,NA
+"363","MTD4924","Bacteria","Colwellia hornerae","Growth","sharpeschoolhigh",-321.103404972294,0.92187783246631,NA,NA,NA
+"364","MTD4925","Bacteria","Colwellia psychrerythraea","Growth","sharpeschoolhigh",-358.593063240603,-4.30669273874113,NA,NA,NA
+"365","MTD4926","Bacteria","Colwellia psychrotropica","Growth","sharpeschoolfull",-425.250029596798,0.13834181957421,NA,NA,NA
+"366","MTD4927","Bacteria","Psychroflexus torquis","Growth","sharpeschoolhigh",-525.253308629945,0.602260111275872,NA,NA,NA
+"367","MTD4928","Archaea","Acidilobus sulfurireducens","Growth","sharpeschoolhigh",-154.985154672602,3.9690691976688,"temperate",44.43,110.42
+"368","MTD4932","Bacteria","Thermothrix thiopara","Growth","sharpeschoolhigh",-138.122129678509,1.7140350647933,NA,NA,NA
+"369","MTD4933","Bacteria","Rubrobacter xylanophilus","Growth","sharpeschoolhigh",-197.375746129033,-2.30695884123487,NA,NA,NA
+"370","MTD4935","Bacteria","Haloanaerobium lacusroseus","Growth","sharpeschoolhigh",-190.786820381429,0.538521400486052,"tropical",14.83,-17.23
+"371","MTD4937","Bacteria","Pseudoxanthomonas taiwanensis","Growth","sharpeschoolhigh",-142.604864111546,0.649810879089499,"tropical",22.771,121.087
+"372","MTD4939","Bacteria","Caloramator indicus","Growth","sharpeschoolhigh",-97.9250519387233,4.22569147777789,"tropical",21.181,72.85
+"373","MTD4940","Bacteria","Enterococcus faecalis","Growth","sharpeschoolfull",-379.092539530809,-0.765148511970039,NA,NA,NA
+"374","MTD4952","Bacteria","Thermobrachium celere","Growth","sharpeschoolhigh",-263.170602917798,1.05165844234041,"sub-tropical",-38.128,176.245
+"375","MTD4953","Archaea","Pyrococcus abyssi","Growth","sharpeschoolhigh",-125.446290846695,0.696455585912001,NA,NA,NA
+"376","MTD4955","Bacteria","Thermoanaerobacter subterraneus","Growth","sharpeschoolhigh",-133.071136932085,-2.71320604163577,NA,NA,NA
+"377","MTD4961","Bacteria","Sulfurihydrogenibium kristjanssoni","Growth","sharpeschoolhigh",-569.142877391785,0.536119074056724,"cold zone",64.01,21.11
+"378","MTD4962","Archaea","Methanogenium frigidum","Growth","sharpeschoolhigh",-446.466096660347,-2.56170141425691,"tropical",21.23,38.04
+"379","MTD4967","Archaea","Thermococcus fumicolans","Growth","sharpeschoolhigh",-141.504910404207,3.47437408079829,NA,NA,NA
+"380","MTD4968","Archaea","Thermococcus hydrothermalis","Growth","sharpeschoolhigh",-195.338210895139,0.483531538276044,NA,NA,NA
+"381","MTD4971","Bacteria","Persephonella marina","Growth","sharpeschoolhigh",-390.457043396783,1.19815928015286,"tropical",9,104
+"382","MTD4972","Bacteria","Persephonella guaymasensis","Growth","sharpeschoolhigh",-337.910929217102,0.520993517354806,"sub-tropical",27,111
+"383","MTD4973","Bacteria","Deferribacter thermophilus","Growth","sharpeschoolhigh",-108.648173318241,1.03387896864539,"temperate",58.11,-3.08
+"384","MTD4977","Archaea","Methanogenium frittonii","Growth","sharpeschoolfull",-271.653755586575,0.19894403203785,"temperate",52.54,1.65
+"385","MTD4991","Archaea","Ignicoccus islandicus","Growth","sharpeschoolhigh",-161.6117783158,1.31753887136847,"cold zone",68.5,17.1
+"386","MTD4995","Bacteria","Thermus sp. DI","Growth","sharpeschoolhigh",-246.297522277411,-1.93983737098231,"temperate",51.51,-0.06
+"387","MTD4996","Bacteria","Thermus sp. NH","Growth","sharpeschoolhigh",-139.401303219173,-1.09319536160005,"temperate",51.51,-0.06
+"388","MTD4999","Bacteria","Pelotomaculum thermopropionicum","Growth","sharpeschoolhigh",-186.748491020195,2.0563683753129,NA,NA,NA
+"389","MTD5001","Archaea","Desulfurococcus sp. S","Growth","sharpeschoolhigh",-107.219959925603,0.517676726251146,"tropical",11,110
+"390","MTD5002","Archaea","Desulfurococcus sp. SY","Growth","sharpeschoolhigh",-133.599001126827,0.477760044684202,"tropical",11,110
+"391","MTD5004","Archaea","Methanococcus vulcanius","Growth","sharpeschoolfull",-211.149920057684,-1.60329063840327,"tropical",12.48,103.58
+"392","MTD5010","Archaea","Geogemma barossii","Growth","sharpeschoolhigh",-183.269434718865,1.08850477836693,"temperate",47.55,129.06
+"393","MTD5012","Bacteria","Heliobacillus mobilis","Growth","sharpeschoolhigh",-216.066698820528,1.34362545057367,NA,NA,NA
+"394","MTD5013","Bacteria","Heliobacterium modesticaldum","Growth","sharpeschoolhigh",-218.399406193734,0.630605407115351,"cold zone",63.4,22.4
+"395","MTD5015","Archaea","Methanobacterium subterraneum","Growth","sharpeschoolhigh",-183.469400234568,-1.59608296318029,"temperate",57.24,16.24
+"396","MTD5024","Bacteria","Acetogenium kivui","Growth","sharpeschoolhigh",-129.967448527783,1.06974248426404,"tropical",-2.34,29.11
+"397","MTD5025","Bacteria","Clostridium thermoalcaliphilum","Growth","sharpeschoolfull",-335.81177015297,-0.376410604394253,"sub-tropical",33.78,-84.4
+"398","MTD5026","Bacteria","Desulfotomaculum putei","Growth","sharpeschoollow",-235.484908040869,0.959012844690901,NA,NA,NA
+"399","MTD5027","Bacteria","Clostridium paradoxum 'YT'","Growth","sharpeschoolfull",-416.580202995046,0.907140569039443,NA,NA,NA
+"400","MTD5028","Bacteria","Clostridium paradoxum 'YTG'","Growth","sharpeschoolfull",-598.653955335862,-0.0268680262620326,NA,NA,NA
+"401","MTD5029","Bacteria","Herbaspirillum sp. K1","Growth","sharpeschoolhigh",-299.278848069523,-1.26740832923142,"cold zone",60.51,25.16
+"402","MTD5030","Bacteria","Sphingomonas sp. K101","Growth","sharpeschoolhigh",-331.001412756624,0.330685579674695,"cold zone",60.51,25.16
+"403","MTD5031","Bacteria","Pseudomonas sp. K104","Growth","sharpeschoolhigh",-270.345144090629,0.450574570925091,"cold zone",60.51,25.16
+"404","MTD5032","Bacteria","Sphingobacterium sp. K112","Growth","sharpeschoolhigh",-261.716255722087,-1.91333344816775,"cold zone",60.51,25.16
+"405","MTD5033","Bacteria","Bosea sp. K13","Growth","sharpeschoolhigh",-318.076220681222,0.6502831095124,"cold zone",60.51,25.16
+"406","MTD5035","Bacteria","Acidovorax sp. K33","Growth","sharpeschoollow",-319.888475251022,0.211141840865967,"cold zone",60.51,25.16
+"407","MTD5036","Bacteria","Nocardioides sp. K44","Growth","sharpeschoolhigh",-276.816216561754,1.16561630075969,"cold zone",60.51,25.16
+"408","MTD5037","Bacteria","sphingomonas sp. K6","Growth","sharpeschoolhigh",-300.739552266074,-3.83417774104589,"cold zone",60.51,25.16
+"409","MTD5038","Bacteria","Sphingomonas sp. K74","Growth","sharpeschoolhigh",-299.955760973418,-1.37589920050636,"cold zone",60.51,25.16
+"410","MTD5039","Bacteria","Ralstonia sp. K8","Growth","sharpeschoolhigh",-324.341532607954,1.1940446435392,"cold zone",60.51,25.16
+"411","MTD5040","Bacteria","Sphingomonas sp. MT1","Growth","sharpeschoolhigh",-299.851516077261,-3.45075757058332,"cold zone",60.51,25.16
+"412","MTD5049","Bacteria","Synechococcus Lividus","Growth","sharpeschoolhigh",-241.986662681956,0.874964370653288,"temperate",42.22,-120.36
+"413","MTD5052","Bacteria","Bacillus sp. MS30","Growth","sharpeschoolhigh",-160.130650715673,1.13984480242874,"tropical",23.36,-44.95
+"414","MTD5054","Archaea","Methanoculleus submarinus","Growth","sharpeschoolfull",-579.265552156861,-0.538787354935302,"sub-tropical",32.26,135.01
+"415","MTD5056","Bacteria","Bacillus megaterium","Growth","sharpeschoolhigh",-244.176531888235,0.902809852805082,NA,NA,NA
+"416","MTD5057","Bacteria","Bacillus subtilis","Growth","sharpeschoolfull",-250.682471846357,1.77393404632548,NA,NA,NA
+"417","MTD5058","Bacteria","Escherichia coli","Growth","sharpeschoolfull",-251.89932137179,0.902508785863217,NA,NA,NA
+"418","MTD5059","Bacteria","Pseudomonas aeruginosa","Growth","sharpeschoolfull",-249.191066843714,0.0240861329241147,NA,NA,NA
+"419","MTD5060","Bacteria","Pseudomonas fluorescens","Growth","sharpeschoolhigh",-266.23606586807,0.653908799316068,NA,NA,NA
+"420","MTD5061","Bacteria","Serratia marcescens","Growth","sharpeschoolhigh",-158.437334037841,0.585115253939323,NA,NA,NA
+"421","MTD5062","Bacteria","Vibrio marinus ATCC 15381","Growth","sharpeschoolhigh",-132.380940332862,0.845078256027232,NA,NA,NA
+"422","MTD5063","Bacteria","Vibrio marinus ATCC 15382","Growth","sharpeschoolhigh",-200.089710602942,-3.52640593403254,NA,NA,NA
+"423","MTD5064","Bacteria","Vibrio psychroerythrus","Growth","sharpeschoolhigh",-141.882023702927,-4.19877455607352,NA,NA,NA
+"424","MTD5067","Bacteria","Halomonas campisalis","Growth","sharpeschoolhigh",-134.441951331446,1.36187685559145,NA,NA,NA
+"425","MTD5071","Bacteria","Mastigocladus laminosus","Growth","sharpeschoolhigh",-160.263265977402,-2.41747379842906,"cold zone",64.9,-21.39
+"426","MTD5074","Bacteria","Mastigocladus laminosus","Photosynthesis","sharpeschoolhigh",69.2879331537089,0.91266203822039,"cold zone",64.9,-21.39
+"427","MTD5075","Bacteria","Mastigocladus laminosus","Photosynthesis","sharpeschoolhigh",67.413580229901,0.92085284045159,"cold zone",64.9,-21.39
+"428","MTD5076","Bacteria","Mastigocladus laminosus","Photosynthesis","sharpeschoolhigh",62.6102848620054,0.897193695569955,"cold zone",64.9,-21.39
+"429","MTD5077","Bacteria","Mastigocladus laminosus","Photosynthesis","sharpeschoolhigh",67.7950428011285,0.995599743811947,"cold zone",64.9,-21.39
+"430","MTD5084","Bacteria","Planococcus halocryophilus OR1","Growth","sharpeschoolhigh",-246.920261515194,-0.328291259612819,NA,NA,NA
+"431","MTD5085","Bacteria","Brevibacterium Sp. CR3/1/15","Growth","sharpeschoolhigh",-579.456597010726,-0.852098317445204,"cold zone",-60.7,-45.64
+"432","MTD5087","Bacteria","Hydrogenophaga pseudoflava","Growth","sharpeschoolhigh",-534.67693692793,0.535161747657016,"cold zone",-60.7,-45.64
+"433","MTD5088","Bacteria","Hydrogenophaga pseudoflava","Growth","sharpeschoolhigh",-262.457362816085,-3.16988037382898,"cold zone",-60.7,-45.64
+"434","MTD5089","Bacteria","Gelidibacter gilvus","Growth","sharpeschoolfull",-1055.55301895318,-0.73227192243558,NA,NA,NA
+"435","MTD5090","Bacteria","Glaciecola punicea","Growth","sharpeschoolhigh",-580.950491743278,1.11263110801978,NA,NA,NA
+"436","MTD5091","Bacteria","Shewanella gelidimarina","Growth","sharpeschoolfull",-598.713521096265,0.0504264161199541,NA,NA,NA
+"437","MTD5092","Bacteria","Shewanella gelidimarina","Growth","sharpeschoolhigh",-643.41185930752,0.481492896844624,NA,NA,NA
+"438","MTD5093","Bacteria","Listeria monocytogenes","Growth","sharpeschoolfull",-553.744342508541,0.197380170224741,NA,NA,NA
+"439","MTD5095","Bacteria","Thermus thermophilus","Growth","sharpeschoolhigh",-358.56438176254,0.251671327173167,"sub-tropical",34.75,138.98
+"440","MTD5097","Bacteria","Pseudoalteromonas haloplanktis TAC125","Growth","sharpeschoolhigh",-162.180781272583,-4.25243735085601,"cold zone",-66,140
+"441","MTD5099","Bacteria","Trichococcus patagoniensis","Growth","sharpeschoolhigh",-151.302084093255,0.558431670893894,"temperate",-52.8,-71.1
+"442","MTD5101","Bacteria","Symbiobacterium toebii","Growth","sharpeschoolhigh",-125.276518817624,1.17915674373389,NA,NA,NA
+"443","MTD5103","Bacteria","Sulfobacillus sp. WR1","Growth","sharpeschoolhigh",-449.346999681019,0.96651029991007,"sub-tropical",-33.3,116.1
+"444","MTD5106","Bacteria","Rhodothemus obamensis","Growth","sharpeschoolhigh",-162.63507744751,0.348485142090394,"sub-tropical",32.7,130.1
+"445","MTD5107","Archaea","Aeropyrum pernix","Growth","sharpeschoolhigh",-150.39383986988,1.42002619933347,"sub-tropical",29.13,129.2
+"446","MTD5109","Bacteria","Marinithermus hydrothermalis","Growth","sharpeschoolhigh",-102.076987120234,0.972632945962008,"sub-tropical",28.34,140.38
+"447","MTD5110","Bacteria","Clostridium thermosulfurogenes","Growth","sharpeschoolhigh",-123.296171754555,0.58824618976161,"temperate",44.42,-110.58
+"448","MTD5113","Archaea","Stygiolobus azoricus","Growth","sharpeschoolfull",-212.165146707525,-1.19938316689314,"sub-tropical",37.77,-25.48
+"449","MTD5118","Bacteria","Thermoanaerobacter siderophilus","Growth","sharpeschoolhigh",-222.210524273095,0.749695445181796,"temperate",53.99,159.45
+"450","MTD5120","Bacteria","Bacillus megaterium","Growth","sharpeschoolhigh",-138.878114558264,0.580488335179961,NA,NA,NA
+"451","MTD5122","Bacteria","Bacillus megaterium","Growth","sharpeschoolhigh",-90.7614619050702,0.826469559948508,NA,NA,NA
+"452","MTD5124","Bacteria","Desulfuromonas michiganensis","Growth","sharpeschoolhigh",-179.050551072137,0.676289345987624,NA,NA,NA
+"453","MTD5125","Bacteria","Desulfuromonas michiganensis","Growth","sharpeschoolhigh",-168.094793002132,0.635433833101614,NA,NA,NA
+"454","MTD5126","Bacteria","Thermosyntropha lipolytica 'RKU1'","Growth","sharpeschoolhigh",-185.690150879272,0.679079802423196,"tropical",0.25,36.1
+"455","MTD5127","Bacteria","Thermosyntropha lipolytica 'RKU10'","Growth","sharpeschoolhigh",-158.393031978253,-2.23979205456136,"tropical",0.25,36.1
+"456","MTD5128","Bacteria","Thermosipho japonicus","Growth","sharpeschoolhigh",-167.829681644268,0.627820737683747,"sub-tropical",27.47,126.53
+"457","MTD5129","Bacteria","Alkaliphilus transvaalensis","Growth","sharpeschoolhigh",-145.825830634067,-2.32546988392908,"sub-tropical",-26,27
+"458","MTD5131","Bacteria","Marinobacter alkaliphilus","Growth","sharpeschoolhigh",-111.885934754154,0.448665945826915,"tropical",13.47,146
+"459","MTD5136","Bacteria","Themus ruber","Growth","sharpeschoolhigh",-124.163169719622,0.44852780258008,NA,NA,NA
+"460","MTD5138","Archaea","Pyrococcus glycovorans","Growth","sharpeschoolhigh",-263.89403632092,0.673577566554063,NA,NA,NA
+"461","MTD5140","Bacteria","Pseudoalteromonas antarctica","Growth","sharpeschoolhigh",-219.959453740756,-2.35842670864494,"cold zone",-62.14,-58.44
+"462","MTD5162","Bacteria","Spiroplasma floricola 23-6","Growth","sharpeschoolhigh",-127.196034819689,-3.3772835033431,NA,NA,NA
+"463","MTD5165","Bacteria","Spiroplasma apis B31","Growth","sharpeschoolhigh",-154.821345250341,-3.2719762964298,NA,NA,NA
+"464","MTD5167","Bacteria","Spiroplasma apis PPS1","Growth","sharpeschoolhigh",-135.555252736231,1.13388221293313,NA,NA,NA
+"465","MTD5169","Bacteria","Spiroplasma apis W13","Growth","sharpeschoolhigh",-128.788041526631,-4.8964208742752,NA,NA,NA
+"466","MTD5173","Bacteria","Spiroplasma EA-1","Growth","sharpeschoolhigh",-114.338967097913,1.47301049180683,NA,NA,NA
+"467","MTD5180","Bacteria","Spiroplasma DU-1","Growth","sharpeschoolhigh",-112.651784789604,0.994319848011177,NA,NA,NA
+"468","MTD5188","Bacteria","Spiroplasma TN-1","Growth","sharpeschoolhigh",-131.464973493612,0.899716431787078,NA,NA,NA
+"469","MTD5210","Bacteria","Listeria monocytogenes LM 1/2b","Growth","sharpeschoolhigh",-211.828881705236,-1.26554707356971,NA,NA,NA
+"470","MTD5228","Bacteria","Salmonella typhimurium","Growth","sharpeschoolfull",-413.192687240189,-0.131401244531752,NA,NA,NA
+"471","MTD5230","Bacteria","Escherichia coli","Growth","sharpeschoollow",-327.861420994012,1.32948051328703,NA,NA,NA
+"472","MTD5232","Bacteria","Clostridium perfringens","Growth","sharpeschoolhigh",-439.044057178495,0.968125019422225,NA,NA,NA
+"473","MTD5233","Bacteria","Clostridium perfringens","Growth","sharpeschoolfull",-425.349650373657,-1.00495397041371,NA,NA,NA
+"474","MTD5234","Bacteria","Clostridium perfringens","Growth","sharpeschoolhigh",-372.46996136997,0.577850978833319,NA,NA,NA
+"475","MTD5235","Bacteria","Desulforhopalus vacuolatus","Growth","sharpeschoolfull",-580.547544355669,0.904282971557407,NA,NA,NA
+"476","MTD5237","Bacteria","Desulfobacter curvatus","Growth","sharpeschoolfull",-723.923000522437,-0.432844422546323,NA,NA,NA
+"477","MTD5240","Archaea","Nitrosotalea sp. Nd2","Growth","sharpeschoolhigh",-161.152564464017,0.602469596140621,NA,NA,NA
+"478","MTD5241","Bacteria","Escherichia coli","Growth","sharpeschoolfull",-533.113711158731,0.125174158795038,NA,NA,NA
+"479","MTD5242","Bacteria","Brochothrix thermosphacta","Growth","sharpeschoolhigh",-114.578594264612,0.670411116203036,NA,NA,NA
+"480","MTD5243","Bacteria","Lactococcus piscium","Growth","sharpeschoolhigh",-117.293522694755,0.724951464739716,NA,NA,NA
+"481","MTD5244","Bacteria","Geobacillus stearothermophilus","Growth","sharpeschoolhigh",-355.757792095772,-2.14687092028394,NA,NA,NA
+"482","MTD5246","Bacteria","Thermus thermophilus","Growth","sharpeschoolhigh",-180.597467911306,0.550983760731116,NA,NA,NA
+"483","MTD5247","Archaea","Methanopyrus kandleri","Growth","sharpeschoolfull",-254.312897491144,0.545631112401021,"sub-tropical",-25.31,70.04
+"484","MTD5248","Archaea","Methanopyrus kandleri","Growth","sharpeschoolhigh",-247.185283612088,1.50846619612605,"sub-tropical",-25.31,70.04
+"485","MTD5249","Bacteria","Lactobacillus rhamnosus","Growth","sharpeschoolfull",-395.337545176549,-2.67506315579852,NA,NA,NA
+"486","MTD5250","Bacteria","Escherichia coli","Growth","sharpeschoolfull",-1752.97647678433,-0.696830150759685,NA,NA,NA
+"487","MTD5256","Bacteria","Bacillus cereus","Growth","sharpeschoolhigh",-173.854985753105,0.7372521559397,NA,NA,NA
+"488","MTD5258","Bacteria","Bacillus cereus","Growth","sharpeschoolhigh",-159.710707977769,-1.48391305739242,NA,NA,NA
+"489","MTD5260","Bacteria","Listeria monocytogenes","Growth","sharpeschoolhigh",-355.374738602995,0.756959472890297,NA,NA,NA
+"490","MTD5262","Archaea","Haloarcula vallismortis","Growth","sharpeschoolfull",-374.792041295236,3.09757842349814,NA,NA,NA
+"491","MTD5264","Archaea","Halobaculum gomorrense","Growth","sharpeschoolhigh",-378.961599202555,-1.47701385513419,NA,NA,NA
+"492","MTD5265","Archaea","Halococcus morrhuae","Growth","sharpeschoolhigh",-383.022285298741,-2.81946192896344,NA,NA,NA
+"493","MTD5266","Archaea","Haloferax volcanii","Growth","sharpeschoolfull",-303.6440258984,0.254627646019791,NA,NA,NA
+"494","MTD5267","Archaea","Halogeometricum borinquense","Growth","sharpeschoolfull",-428.44300406259,-1.64126772060109,NA,NA,NA
+"495","MTD5268","Archaea","Halorubrum saccharovorum","Growth","sharpeschoolhigh",-360.314837780979,-1.57242826671779,NA,NA,NA
+"496","MTD5269","Archaea","Haloterrigena turkmenica","Growth","sharpeschoolfull",-384.989547799853,0.267633306295086,NA,NA,NA
+"497","MTD5270","Archaea","Natrialba asiatica","Growth","sharpeschoolhigh",-317.529490087053,-1.62291532855591,NA,NA,NA
+"498","MTD5271","Archaea","Natrinema pellirubrum","Growth","sharpeschoolfull",-398.436773303007,2.32417269401128,NA,NA,NA
+"499","MTD5272","Archaea","Natronobacterium gregoryi","Growth","sharpeschoolhigh",-333.450571288626,-1.75897793993888,NA,NA,NA
+"500","MTD5273","Archaea","Natronococcus occultus","Growth","sharpeschoolhigh",-352.446737247176,0.608350319593667,NA,NA,NA
+"501","MTD5274","Archaea","Natronomonas pharaonis","Growth","sharpeschoolhigh",-374.592194645041,-1.18702899981034,NA,NA,NA
+"502","MTD5275","Archaea","Natronorubrum bangense","Growth","sharpeschoolhigh",-328.053432397842,-1.79626859315612,NA,NA,NA
+"503","MTD5298","Bacteria","Desulfofrigus oceanense","Growth","sharpeschoolfull",-484.130205649478,1.5861255215183,"cold zone",76.97,15.83
+"504","MTD5299","Bacteria","Desulfofrigus fragile","Growth","sharpeschoolhigh",-469.091422476678,0.377514369974018,"cold zone",76.97,15.83
+"505","MTD5301","Bacteria","Desulfotalea psychrophila","Growth","sharpeschoolfull",-1246.05872686787,1.13214475062173,"cold zone",77.76,19.91
+"506","MTD5302","Bacteria","Desulfotalea arctica","Growth","sharpeschoolhigh",-542.772065012002,0.383469032871142,"cold zone",77.76,19.91
+"507","MTD5307","Bacteria","Psychrobacter glacincola","Growth","sharpeschoolhigh",-321.912321262959,0.571089125105944,"cold zone",-68.55,78.25
+"508","MTD5308","Bacteria","Psychrobacter glacincola","Growth","sharpeschoolhigh",-289.608924956425,0.506875174407749,"cold zone",-68.55,78.25
+"509","MTD5309","Bacteria","Psychrobacter glacincola","Growth","sharpeschoolfull",-301.234521157708,-3.77641168854865,"cold zone",-68.55,78.25
+"510","MTD5310","Bacteria","Xanthomonas_campestris","Growth","sharpeschoolhigh",-127.167384716991,0.546247335142596,"sub-tropical",38,-122
+"511","MTD5311","Bacteria","Xylella fastidiosa","Growth","sharpeschoolhigh",-182.952036274901,1.37477295674608,NA,NA,NA
+"512","MTD5312","Bacteria","Erwinia amylovora","Growth","sharpeschoolfull",-194.951846736401,-0.0457805883146309,NA,NA,NA
+"513","MTD5313","Bacteria","Halomonas subglaciescola ACAM11","Growth","sharpeschoolfull",-897.867127841428,-0.427622370887838,NA,NA,NA
+"514","MTD5314","Bacteria","Halomonas subglaciescola ACAM12","Growth","sharpeschoolfull",-738.657996745455,-0.455102365597291,NA,NA,NA
+"515","MTD5315","Bacteria","Halomonas subglaciescola ACAM15","Growth","sharpeschoolfull",-941.781680257447,0.300150406228568,NA,NA,NA
+"516","MTD5316","Bacteria","Halomonas subglaciescola ACAM19","Growth","sharpeschoolfull",-788.101524500189,0.702364984561566,NA,NA,NA
+"517","MTD5318","Bacteria","Halomonas subglaciescola ACAM30","Growth","sharpeschoolfull",-585.870987545617,0.0750846457146971,NA,NA,NA
+"518","MTD5319","Archaea","Halobacterium sp. ACAM32","Growth","sharpeschoolhigh",-670.375424380666,1.11321216414972,NA,NA,NA
+"519","MTD5320","Archaea","Halobacterium sp. ACAM34","Growth","sharpeschoolhigh",-669.466335946356,-0.94244066928006,NA,NA,NA
+"520","MTD5321","Bacteria","Listeria monocytogenes","Growth","sharpeschoolfull",-478.470828751133,0.484272725438462,NA,NA,NA
+"521","MTD5322","Bacteria","Listeria monocytogenes","Growth","sharpeschoolfull",-507.793180986015,-0.652074399124791,NA,NA,NA
+"522","MTD5323","Bacteria","Listeria monocytogenes","Growth","sharpeschoolfull",-497.737214311922,-0.121273293579863,NA,NA,NA
+"523","MTD5324","Bacteria","Listeria monocytogenes","Growth","sharpeschoolfull",-529.592371979923,-0.308859589692985,NA,NA,NA
+"524","MTD5325","Bacteria","Listeria monocytogenes","Growth","sharpeschoolfull",-548.158717568392,-0.596785682807205,NA,NA,NA
+"525","MTD5326","Bacteria","Glaciecola punicea","Growth","sharpeschoolhigh",-564.471862697441,-1.20841328162294,NA,NA,NA
+"526","MTD5327","Bacteria","Gelidibacter sp.","Growth","sharpeschoolhigh",-1357.7457130436,0.888659379237751,NA,NA,NA
+"527","MTD5328","Bacteria","Shewanella gelidimarina","Growth","sharpeschoolfull",-580.311236196155,-0.914005791046941,NA,NA,NA
+"528","MTD5329","Bacteria","Shewanella gelidimarina","Growth","sharpeschoolfull",-583.690281591021,-5.03002805396048,NA,NA,NA
+"529","MTD5330","Bacteria","Shewanella gelidimarina","Growth","sharpeschoolhigh",-624.778840720729,-3.0689958195327,NA,NA,NA
+"530","MTD5331","Bacteria","Aeromonas hydrophila","Growth","sharpeschoolfull",-557.569285770505,-0.666798797982931,NA,NA,NA
+"531","MTD5332","Bacteria","Listeria monocytogenes","Growth","sharpeschoolfull",-575.55466711514,0.869093364137224,NA,NA,NA
+"532","MTD5333","Bacteria","Escherichia coli","Growth","sharpeschoolfull",-938.106404859526,0.581162534534907,NA,NA,NA
+"533","MTD5334","Bacteria","Pseudomonas fluorescens","Growth","sharpeschoolfull",-990.083083491559,0.265760031006766,NA,NA,NA
+"534","MTD5335","Bacteria","Klebsiella oxytoca","Growth","sharpeschoolfull",-460.431903253871,0.554388194988594,NA,NA,NA
+"535","MTD5336","Bacteria","Pseudomonas putida","Growth","sharpeschoolfull",-1629.41298490367,-2.99372794746384,NA,NA,NA
+"536","MTD5337","Bacteria","Streptococcus thermophilus K120-6","Growth","sharpeschoolhigh",-316.29767513273,-2.05289286660914,NA,NA,NA
+"537","MTD5338","Bacteria","Streptococcus thermophilus K118-4","Growth","sharpeschoolhigh",-265.195176809299,-2.69059625443336,NA,NA,NA
+"538","MTD5339","Bacteria","Streptococcus thermophilus BC-29","Growth","sharpeschoolhigh",-313.455709293158,-2.23967031124795,NA,NA,NA
+"539","MTD5340","Bacteria","Streptococcus thermophilus BC-29","Growth","sharpeschoolfull",-437.835113317329,1.16232460514991,NA,NA,NA
+"540","MTD5341","Bacteria","Streptococcus thermophilus BC-29","Growth","sharpeschoolfull",-306.668942950472,-1.08514004949052,NA,NA,NA
+"541","MTD5342","Bacteria","Streptococcus thermophilus BC-14","Growth","sharpeschoolfull",-427.019275783528,0.137434368051546,NA,NA,NA
+"542","MTD5343","Bacteria","Streptococcus thermophilus BC-14","Growth","sharpeschoolhigh",-368.037180178396,-3.07110515198563,NA,NA,NA
+"543","MTD5344","Bacteria","Streptococcus thermophilus BC-14","Growth","sharpeschoolhigh",-432.710875555487,-1.88988414800447,NA,NA,NA
+"544","MTD5345","Bacteria","Streptococcus thermophilus BC-14","Growth","sharpeschoolfull",-285.432822212794,0.605455443693799,NA,NA,NA
+"545","MTD5346","Bacteria","Streptococcus thermophilus BC-14","Growth","sharpeschoolfull",-416.37430693226,1.61619123377931,NA,NA,NA
+"546","MTD5347","Bacteria","Escherichia coli  ONT H8 (R91)","Growth","sharpeschoolfull",-478.723049381777,0.320580720441523,NA,NA,NA
+"547","MTD5348","Bacteria","Escherichia coli O126:H21(R10)","Growth","sharpeschoolfull",-476.376640053814,0.0582929805423892,NA,NA,NA
+"548","MTD5349","Bacteria","Escherichia coli  NT (R31)","Growth","sharpeschoolfull",-516.969739394484,0.109213455728096,NA,NA,NA
+"549","MTD5350","Bacteria","Escherichia coli O81:H- (R106)","Growth","sharpeschoolfull",-476.026114816548,-0.0383491146950853,NA,NA,NA
+"550","MTD5353","Bacteria","Escherichia coli O157:H-","Growth","sharpeschoolfull",-856.709620016749,0.464118029578993,NA,NA,NA
+"551","MTD5354","Bacteria","Escherichia coli O157:H7 (EH9)","Growth","sharpeschoolfull",-462.205961798722,0.0460475727810994,NA,NA,NA
+"552","MTD5355","Bacteria","Escherichia coli O111:H-","Growth","sharpeschoolfull",-510.132239959861,0.056989038764585,NA,NA,NA
+"553","MTD5361","Bacteria","Escherichia coli","Growth","sharpeschoolhigh",-238.425518247656,1.02422100042436,NA,NA,NA
+"554","MTD5380","Bacteria","Haloanaerobium alcaliphilum","Growth","sharpeschoolhigh",-153.174695161917,1.14549604993321,"temperate",41,-112
+"555","MTD5382","Bacteria","Desulfitobacterium dehalogenans","Growth","sharpeschoolfull",-500.752031625935,-0.378242486000038,"sub-tropical",33.98,-83.38
+"556","MTD5384","Bacteria","Chlorobium tepidum","Growth","sharpeschoolhigh",-215.808985082811,0.525068654353981,"sub-tropical",-38.13,176.26
+"557","MTD5386","Bacteria","Bacillus megaterium","Growth","sharpeschoolhigh",-250.908953034511,0.364238500119789,NA,NA,NA
+"558","MTD5388","Bacteria","Clostridium thermohydrosulfuricum","Growth","sharpeschoolhigh",-329.232729844216,0.64871021741379,NA,NA,NA
+"559","MTD5389","Bacteria","Thermoanaerobacter ethanolicus","Growth","sharpeschoolhigh",-284.649694935228,-2.37379243889853,"temperate",44.53,-110.8
+"560","MTD5391","Bacteria","Thermoanaerobacter tengcongensis","Growth","sharpeschoolhigh",-173.546137666123,1.00669467891088,NA,NA,NA
+"561","MTD5398","Bacteria","Halonatronum saccharophilum","Growth","sharpeschoolhigh",-201.234453708971,-0.69860495174822,"tropical",-1.91,36.24
+"562","MTD849","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-82.9214244850401,-0.532544057916264,"temperate",41.792,-110.539
+"563","MTD850","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-158.947560188508,-2.65526469473536,"temperate",41.792,-110.539
+"564","MTD851","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-71.3483808982826,1.20638672170177,"temperate",41.792,-110.539
+"565","MTD852","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-76.657963933059,1.74068081001119,"temperate",41.792,-110.539
+"566","MTD853","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-43.814321728553,-0.899674386801874,"temperate",41.792,-110.539
+"567","MTD854","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-52.3750018791186,13.4284314943852,"temperate",41.792,-110.539
+"568","MTD855","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-218.221496028444,0.322715387093217,"temperate",41.792,-110.539
+"569","MTD856","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-73.3661609942848,2.42096478669224,"temperate",41.792,-110.539
+"570","MTD857","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-123.477875271681,0.658580522767128,"temperate",41.792,-110.539
+"571","MTD858","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-158.683943922128,2.07684692132924,"temperate",41.792,-110.539
+"572","MTD859","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-149.54151261197,0.102344720081552,"temperate",41.792,-110.539
+"573","MTD860","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-138.462153073383,2.83458789313043,"temperate",41.792,-110.539
+"574","MTD861","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-70.6132085650712,1.43238084922612,"temperate",41.792,-110.539
+"575","MTD862","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-107.958574078724,4.2478910745111,"temperate",41.792,-110.539
+"576","MTD863","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-258.09566639249,-0.644662836552866,"temperate",41.792,-110.539
+"577","MTD864","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-107.960106329315,-2.89688506594779,"temperate",41.792,-110.539
+"578","MTD866","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-123.559961422337,0.694699889859456,"temperate",41.792,-110.539
+"579","MTD867","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoollow",-118.145362749984,0.487536172328193,"temperate",41.792,-110.539
+"580","MTD868","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-116.917596376692,0.00343281773678165,"temperate",41.792,-110.539
+"581","MTD869","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-49.7202449100093,-1.13322980977379,"temperate",41.792,-110.539
+"582","MTD870","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-126.014425961435,1.07392128392339,"temperate",41.792,-110.539
+"583","MTD871","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-173.513059620748,2.91633980496141,"temperate",41.792,-110.539
+"584","MTD872","Metazoa","Pogonomyrmex occidentalis","Encounter","sharpeschoolhigh",-81.2121319492455,0.610431988099237,"temperate",41.792,-110.539
+"585","MTD99","Metazoa","Pisaster ochraceus","Consumption","sharpeschoolhigh",-384.862367067268,0.662098488842556,"temperate",44.264,-124.109
